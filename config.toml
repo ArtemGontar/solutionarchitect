@@ -15,20 +15,18 @@ pygmentsCodeFencesGuessSyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Arstiom Hontar"
+    author = "Solution architect blog"
     description = "Solution architect blog"
-    keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
-    avatarURL = "images/avatar.jpg"
-    #gravatar = "john.doe@example.com"
-    footerContent = "Enter a text here."
-
+    keywords = "blog,developer,digital,personal,solution,architect,engineer,engineering"
+    info = "Engineering - this is the way"
+    avatarURL = "img/logo.png"
+    #gravatar = "artemgontar16@gmail.com"
+    #footerContent = "Enter a text here."
     dateFormat = "January 2, 2006"
-
     hideFooter = false
-    hideCredits = false
+    hideCredits = true
     hideCopyright = false
-    since = 2019
+    since = 2020
 
     # Git Commit in Footer, uncomment the line below to enable it.
     commit = "https://github.com/luizdepra/hugo-coder/tree/"
@@ -48,11 +46,14 @@ disqusShortname = "yourdiscussshortname"
     # Series see also post count
     maxSeeAlsoItems = 5
 
+    custom_css = ["css/about.css"]
+
 [taxonomies]
   category = "categories"
   series = "series"
   tag = "tags"
   author = "authors"
+
 
 [[params.social]]
     name = "Github"
@@ -60,13 +61,8 @@ disqusShortname = "yourdiscussshortname"
     weight = 1
     url = "https://github.com/johndoe/"
 [[params.social]]
-    name = "Gitlab"
-    icon = "fa fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fa fa-twitter"
+    name = "Telegram"
+    icon = "fa fa-telegram"
     weight = 3
     url = "https://twitter.com/johndoe/"
 [[params.social]]
@@ -75,8 +71,8 @@ disqusShortname = "yourdiscussshortname"
     weight = 4
     url = "https://www.linkedin.com/in/johndoe/"
 [[params.social]]
-    name = "Medium"
-    icon = "fa fa-medium"
+    name = "Instagram"
+    icon = "fa fa-instagram"
     weight = 5
     url = "https://medium.com/@johndoe"
 [[params.social]]
@@ -114,9 +110,9 @@ disqusShortname = "yourdiscussshortname"
             weight = 5
             url = "contact/"
 
+
 [deployment]
 order = [".jpg$", ".gif$"]
-
 
 [[deployment.targets]]
 name = "solutionarchitectdeployment"
