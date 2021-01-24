@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "http://solutionarchitect.com.s3-website-us-east-1.amazonaws.com/"
 title = "solution architect"
 
 theme = "hugo-coder"
@@ -47,70 +47,6 @@ disqusShortname = "yourdiscussshortname"
 
     # Series see also post count
     maxSeeAlsoItems = 5
-
-    # Enable Twemoji
-    enableTwemoji = true
-
-    # Custom CSS
-    customCSS = []
-
-    # Custom SCSS
-    customSCSS = []
-
-    # Custom JS
-    customJS = []
-
-# If you want to use fathom(https://usefathom.com) for analytics, add this section
-[params.fathomAnalytics]
-    siteID = "ABCDE"
-    # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
-    serverURL = "analytics.example.com"
-
-# If you want to use plausible(https://plausible.io) for analytics, add this section
-[params.plausibleAnalytics]
-    domain = "example.com"
-    # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
-    serverURL = "analytics.example.com"
-
-# If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
-[params.goatCounter]
-    code = "code"
-
-# If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
-[params.cloudflare]
-    token = "token"
-
-# If you want to use Matomo(https://matomo.org) for analytics, add this section
-[params.matomo]
-    # Default value is "1", overwrite this if you are cloud-hosting
-    siteID = "ABCDE"
-    # For cloud-hosting, use provided URL, e.g. example.matomo.cloud
-    serverURL = "analytics.example.com"
-
-# If you want to implement a Content-Security-Policy, add this section
-[params.csp]
-	  childsrc = ["'self'"]
-	  fontsrc = [
-        "'self'",
-		    "https://fonts.gstatic.com",
-		    "https://cdn.jsdelivr.net/"
-    ]
-	  formaction = ["'self'"]
-	  framesrc = ["'self'"]
-	  imgsrc = ["'self'"]
-	  objectsrc = ["'none'"]
-	  stylesrc = [
-        "'self'",
-		    "'unsafe-inline'",
-		    "https://fonts.googleapis.com/",
-		    "https://cdn.jsdelivr.net/"
-    ]
-	  scriptsrc = [
-        "'self'",
-		    "'unsafe-inline'",
-		    "https://www.google-analytics.com"
-    ]
-	  prefetchsrc = ["'self'"]
 
 [taxonomies]
   category = "categories"
@@ -178,36 +114,28 @@ disqusShortname = "yourdiscussshortname"
             weight = 5
             url = "contact/"
 
+[deployment]
+order = [".jpg$", ".gif$"]
 
-    [languages.pt-br]
-        languageName = "Português"
-        title = "João Ninguém"
 
-        [languages.pt-br.params]
-            author = "João Ninguém"
-            info = "Full Stack DevOps e Mágico"
-            description = "Sítio pessoal de João Ninguém"
-            keywords = "blog,desenvolvedor,pessoal"
-            footerContent = "Coloque algum texto aqui."
+[[deployment.targets]]
+name = "solutionarchitectdeployment"
 
-        [languages.pt-br.menu]
+URL = "s3://solutionarchitect.com?region=us-east-1"
 
-            [[languages.pt-br.menu.main]]
-            name = "Sobre"
-            weight = 1
-            url = "about/"
+# cloudFrontDistributionID = <ID>
 
-            [[languages.pt-br.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "posts/"
+[[deployment.matchers]]
+#  Cache static assets for 1 year.
+pattern = "^.+\\.(js|css|svg|ttf)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
 
-            [[languages.pt-br.menu.main]]
-            name = "Projetos"
-            weight = 3
-            url = "projects/"
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
 
-            [[languages.pt-br.menu.main]]
-            name = "Contato"
-            weight = 5
-            url = "contact/"
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
