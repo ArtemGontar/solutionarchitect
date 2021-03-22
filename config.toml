@@ -1,8 +1,6 @@
 baseURL = "http://solutionarchitect.com.s3-website-us-east-1.amazonaws.com/"
-title = "solution architect"
-
+title = "SolutionArchitect"
 theme = "hugo-coder"
-
 languageCode = "en"
 defaultContentLanguage = "en"
 
@@ -59,29 +57,29 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fa fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/ArtemGontar"
 [[params.social]]
     name = "Telegram"
     icon = "fa fa-telegram"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "tg://resolve?domain=solution_architect"
 [[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.linkedin.com/in/artem-hontar-2679a717b/"
 [[params.social]]
     name = "Instagram"
     icon = "fa fa-instagram"
     weight = 5
-    url = "https://medium.com/@johndoe"
-[[params.social]]
-    name = "RSS"
-    icon = "fa fa-rss"
-    weight = 6
-    url = "https://myhugosite.com/index.xml"
-    rel = "alternate"
-    type = "application/rss+xml"
+    url = "https://www.instagram.com/solution_architecture/"
+# [[params.social]]
+#    name = "RSS"
+#    icon = "fa fa-rss"
+#    weight = 6
+#    url = "https://myhugosite.com/index.xml"
+#    rel = "alternate"
+#    type = "application/rss+xml"
 
 
 [languages]
