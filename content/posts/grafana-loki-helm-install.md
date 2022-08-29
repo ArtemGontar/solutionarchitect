@@ -1,6 +1,14 @@
 ---
 title: "How to configure Grafana Loki with Helm into Kubernetes"
 date: 2022-01-24T11:13:07+02:00
+keywords:
+- grafana
+- loki
+- observability
+- helm
+- kubernetes
+- configure
+- promtail
 draft: false
 ---
 

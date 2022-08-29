@@ -12,6 +12,11 @@ pygmentsCodeFencesGuessSyntax = true
 
 disqusShortname = "yourdiscussshortname"
 
+[sitemap]
+    changefreq = "weekly"
+    filename = "sitemap.xml"
+    priority = 0.5
+
 [params]
     author = "Solution architect blog"
     description = "Solution architect blog"
