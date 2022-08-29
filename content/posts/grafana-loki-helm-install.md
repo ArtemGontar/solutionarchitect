@@ -1,4 +1,8 @@
-# How to configure Grafana Loki with Helm into Kubernetes
+---
+title: "How to configure Grafana Loki with Helm into Kubernetes"
+date: 2022-01-24T11:13:07+02:00
+draft: false
+---
 
 ## About to start configuring
 
