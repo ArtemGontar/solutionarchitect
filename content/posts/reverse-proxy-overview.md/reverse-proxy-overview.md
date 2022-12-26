@@ -1,5 +1,6 @@
 ---
 title: "Why do you need a reverse proxy server in 5 acts"
+description: "This article describes the use of reverse proxy servers, which are a type of proxy server that relays client requests from the external network to one or more servers located on the internal network. The article explains how reverse proxy servers can be used to solve a variety of problems, including adding HTTPS support to a website, load balancing between multiple servers, protecting against hacking and DDoS attacks, optimizing network performance through request compression and caching, and conducting A/B testing. The article mentions several specific reverse proxy servers, including Nginx, Envoy, HAProxy, and Traefik, as well as cloud provider-specific proxy servers such as AWS Elastic LoadBalancer, Google Cloud Load Balancer, DigitalOcean Load Balancer, and Azure Load Balancer. The article includes illustrations to help clarify the concepts being discussed."
 date: 2021-01-24T11:13:07+02:00
 keywords:
 - proxy
@@ -31,7 +32,7 @@ A reverse proxy is a type of proxy server that relays client requests from the e
 
 And stick the picture for clarity.
 
-![reverse_proxy1](/img/reverse_proxy1.png)
+![reverse_proxy1](/posts/reverse-proxy-overview/reverse_proxy1.png)
 
 ## What problem do proxy servers solve?
 
@@ -41,7 +42,7 @@ We have a website that does not support HTTPS (because TLS / SSL communication w
 
 How do we solve the problem? We take an idle SysOps / DevOps, we say that we need https. Some Ops puts us a proxy server configures it to accept HTTPS traffic + SSL termination. Problem solved, solution price: 1 Some Ops.
 
-![reverse_proxy2](/img/reverse_proxy2.png)
+![reverse_proxy2](/posts/reverse-proxy-overview/reverse_proxy2.png)
 
 ### Act second
 
@@ -59,7 +60,7 @@ What do we need for this? A promising Chinese development is a firewall to filte
 
 Well, the proxy server will help us to solve this problem, we "broadcast" all these settings to it and no "hackers" will bypass our mega-services. The main thing is to set it up correctly so that the CEO does not consider it a hacker during demos.
 
-![reverse_proxy3](/img/reverse_proxy3.png)
+![reverse_proxy3](/posts/reverse-proxy-overview/reverse_proxy3.png)
 
 ### Act fourth
 
@@ -81,7 +82,7 @@ A/B testing can be configured with a proxy server, what could be better than a c
 
 After the introduction of this feature, the reputation of your application will not suffer as much as it did before the introduction of A/B testing, because negative comments will be written only by a narrow circle of "lucky ones".
 
-![reverse_proxy4](/img/reverse_proxy4.png)
+![reverse_proxy4](/posts/reverse-proxy-overview/reverse_proxy4.png)
 
 ## Summarizing the above
 

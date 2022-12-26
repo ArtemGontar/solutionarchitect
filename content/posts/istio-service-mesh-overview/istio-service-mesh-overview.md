@@ -1,5 +1,6 @@
 ---
 title: "Istio service mesh overview"
+description: "This article discusses the concept of a service mesh and how it can be used to improve the performance, reliability, and resiliency of distributed systems. A service mesh is a dedicated infrastructure layer for handling service-to-service communication, consisting of a set of proxies that act as intermediaries between services and handle tasks such as routing traffic, load balancing, and monitoring. The article explains the benefits of using a service mesh, including a consistent and reliable way for services to communicate with each other, the ability to easily manage and monitor communication between services, and the ability to make a system more resilient and fault-tolerant. The article then introduces Istio, an open-source service mesh developed by Google, IBM, and Lyft that provides features such as traffic routing, observability tools, and circuit breaking and retries. The article explains how to install and configure Istio in a cluster and use it to manage communication between services by injecting a proxy into their pods."
 date: 2022-12-26T15:13:07+02:00
 keywords:
   - Istio service mesh
@@ -19,9 +20,10 @@ keywords:
   - IBM
   - Lyft
 draft: false
+# authors: ["Artsiom Hontar"]
 ---
 
-![Preview](/img/istio/preview.png)
+![Preview](/posts/istio-service-mesh-overview/preview.png)
 
 Hello and welcome to post about Istio service mesh! In this video, we'll be discussing what a service mesh is, how Istio fits into the picture, and why you might want to use it in your own environment.
 
@@ -31,7 +33,7 @@ A service mesh is a dedicated infrastructure layer for handling service-to-servi
 
 At its core, a service mesh consists of a set of proxies that act as intermediaries between services. These proxies can handle things like routing traffic, load balancing, and monitoring. They also provide features like circuit breaking, retries, and timeouts to ensure that communication between services is as reliable and efficient as possible.
 
-![Traffic overview](/img/istio/traffic-overview.png)
+![Traffic overview](/posts/istio-service-mesh-overview/traffic-overview.png)
 
 ## Why use a service mesh?
 
