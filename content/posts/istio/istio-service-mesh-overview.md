@@ -23,7 +23,7 @@ draft: false
 # authors: ["Artsiom Hontar"]
 ---
 
-![Preview](/posts/istio-service-mesh-overview/preview.png)
+![Preview](/posts/istio/preview.png)
 
 Hello and welcome to post about Istio service mesh! In this video, we'll be discussing what a service mesh is, how Istio fits into the picture, and why you might want to use it in your own environment.
 
@@ -33,7 +33,7 @@ A service mesh is a dedicated infrastructure layer for handling service-to-servi
 
 At its core, a service mesh consists of a set of proxies that act as intermediaries between services. These proxies can handle things like routing traffic, load balancing, and monitoring. They also provide features like circuit breaking, retries, and timeouts to ensure that communication between services is as reliable and efficient as possible.
 
-![Traffic overview](/posts/istio-service-mesh-overview/traffic-overview.png)
+![Traffic overview](/posts/istio/traffic-overview.png)
 
 ## Why use a service mesh?
 

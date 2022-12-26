@@ -21,7 +21,7 @@ draft: false
 
 Hello and welcome to this post on the k6 performance testing tool.
 
-![Poster](/posts/k6-performance-testing/poster.png)
+![Poster](/posts/performance/poster.png)
 
 ## What is performance testing?
 
@@ -85,7 +85,7 @@ This will run the test for 30 seconds with 10 virtual users.
 
 Here is an output of command above:
 
-![Output](/posts/k6-performance-testing/output.png)
+![Output](/posts/performance/output.png)
 
 k6 also provides a number of options for customizing and analyzing your tests. For example, you can use the **`http.batch()`** function to send multiple requests in a single batch, or use the **`check()`** function to add assertions to your tests. You can also use the **`-o`** flag to specify an output file for storing the test results.
 
