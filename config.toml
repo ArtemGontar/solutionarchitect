@@ -1,4 +1,4 @@
-baseURL = "http://solutionarchitect.com.s3-website-us-east-1.amazonaws.com/"
+baseURL = "http://solutionarchitectureblog.com.s3-website-us-east-1.amazonaws.com/"
 title = "SolutionArchitect"
 theme = "hugo-coder"
 languageCode = "en"
@@ -115,7 +115,7 @@ order = [".jpg$", ".gif$"]
 [[deployment.targets]]
 name = "solutionarchitectdeployment"
 
-URL = "s3://solutionarchitect.com?region=us-east-1"
+URL = "s3://solutionarchitectureblog.com?region=us-east-1"
 
 # cloudFrontDistributionID = <ID>
 
