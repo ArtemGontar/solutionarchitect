@@ -47,3 +47,10 @@ body.colorscheme-auto {
     @include base_dark()
   }
 }
+
+body:not(.colorscheme-dark) .avatar_dark {
+  display: none;
+}
+.colorscheme-dark .avatar_light {
+  display: none;
+}

@@ -45,6 +45,12 @@ body.colorscheme-dark {
     body.colorscheme-auto table td, body.colorscheme-auto table th {
       border: 2px solid #dadada; } }
 
+body:not(.colorscheme-dark) .avatar_dark {
+  display: none; }
+
+.colorscheme-dark .avatar_light {
+  display: none; }
+
 body.colorscheme-dark .content .list ul li .title {
   color: #dadada; }
   body.colorscheme-dark .content .list ul li .title:hover, body.colorscheme-dark .content .list ul li .title:focus {
