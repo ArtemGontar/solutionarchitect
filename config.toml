@@ -1,4 +1,4 @@
-baseURL = "http://solutionarchitectureblog.com.s3-website-us-east-1.amazonaws.com/"
+baseURL = "http://solutionarchitectureblog.com/"
 title = "SolutionArchitect"
 theme = "hugo-coder"
 languageCode = "en"
@@ -10,6 +10,8 @@ pygmentsStyle = "b2"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 
+googleAnalytics = "G-3QF8FQB2LE"
+googleAnalyticsAsync = false
 disqusShortname = "solutionarchitect"
 
 [sitemap]
@@ -24,7 +26,6 @@ disqusShortname = "solutionarchitect"
     info = "Engineering - this is the way"
     avatarURL = "img/logo.png"
     avatarURLDark = "img/logo-dark.png"
-    #gravatar = "artemgontar16@gmail.com"
     #footerContent = "Enter a text here."
     dateFormat = "January 2, 2006"
     hideFooter = false
@@ -86,29 +87,23 @@ disqusShortname = "solutionarchitect"
 [languages]
     [languages.en]
         languageName = "English"
-
         [languages.en.menu]
-
             [[languages.en.menu.main]]
             name = "About"
             weight = 1
             url = "about/"
-
             [[languages.en.menu.main]]
             name = "Blog"
             weight = 2
             url = "posts/"
-
             [[languages.en.menu.main]]
             name = "Projects"
             weight = 3
             url = "projects/"
-
             [[languages.en.menu.main]]
             name = "Contact me"
             weight = 5
             url = "contact/"
-
 
 [deployment]
 order = [".jpg$", ".gif$"]
@@ -117,8 +112,7 @@ order = [".jpg$", ".gif$"]
 name = "solutionarchitectdeployment"
 
 URL = "s3://solutionarchitectureblog.com?region=us-east-1"
-
-# cloudFrontDistributionID = <ID>
+cloudFrontDistributionID = "E1AF5YXOG4O9S8"
 
 [[deployment.matchers]]
 #  Cache static assets for 1 year.
