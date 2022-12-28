@@ -1,6 +1,6 @@
 ---
-title: "Karpenter: A New Tool for Autoscaling Kubernetes Clusters"
-description: "Karpenter is a tool that automates the scaling of Kubernetes clusters to meet the demands of workloads. It's open-source, highly configurable, and works with multiple cloud providers. It can be installed using Helm, YAML files, or Docker."
+title: "Karpenter: Tool for Autoscaling Kubernetes Clusters"
+description: "Karpenter is a tool that automates the scaling of Kubernetes clusters to meet the demands of workloads."
 date: 2022-12-28T19:13:07+02:00
 keywords:
   - Karpenter
