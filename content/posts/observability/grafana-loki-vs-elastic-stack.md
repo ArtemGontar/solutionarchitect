@@ -26,7 +26,7 @@ keywords:
 draft: false
 ---
 
-![Versus](/posts/observability/versus-preview.png)
+![Versus](/posts/observability/versus-preview.jpg#center)
 
 The Grafana Loki and Elastic Stack are both powerful tools used for log management and analysis. Both have their own unique features and capabilities, and in this article, we will compare the two to help you determine which is the best fit for your needs.
 
@@ -36,7 +36,7 @@ Grafana Loki is a horizontally scalable, highly available, multi-tenant log aggr
 
 One of the main advantages of Grafana Loki is its ability to handle high volume logs with a low resource footprint. It is also very easy to set up and operate, making it a popular choice for small and medium-sized businesses.
 
-![Grafana Loki](/posts/observability/loki-pros.png)
+![Grafana Loki](/posts/observability/loki-pros.jpg#center)
 
 ## Elastic Stack
 
@@ -48,7 +48,7 @@ The Elastic Stack is also highly scalable and can handle a large volume of data.
 
 When it comes to visualizing data, both Grafana Loki and the Elastic Stack offer a range of options. Grafana Loki integrates with Grafana, a popular open-source dashboard and visualization platform, while the Elastic Stack includes Kibana, a powerful visualization tool for analyzing and visualizing data.
 
-![Elastic Stack](/posts/observability/elastic-pros.png)
+![Elastic Stack](/posts/observability/elastic-pros.jpg#center)
 
 ## Pricing
 In terms of pricing, Grafana Loki is free and open-source, while the Elastic Stack is available in both free and paid versions. The free version of the Elastic Stack includes basic features, while the paid version includes additional features and support.

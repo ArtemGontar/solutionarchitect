@@ -32,7 +32,7 @@ A reverse proxy is a type of proxy server that relays client requests from the e
 
 And stick the picture for clarity.
 
-![reverse_proxy1](/posts/tools/reverse_proxy1.png)
+![reverse_proxy1](/posts/tools/reverse_proxy1.svg#center)
 
 ## What problem do proxy servers solve?
 
@@ -42,7 +42,7 @@ We have a website that does not support HTTPS (because TLS / SSL communication w
 
 How do we solve the problem? We take an idle SysOps / DevOps, we say that we need https. Some Ops puts us a proxy server configures it to accept HTTPS traffic + SSL termination. Problem solved, solution price: 1 Some Ops.
 
-![reverse_proxy2](/posts/tools/reverse_proxy2.png)
+![reverse_proxy2](/posts/tools/reverse_proxy2.svg#center)
 
 ### Act second
 
@@ -60,7 +60,7 @@ What do we need for this? A promising Chinese development is a firewall to filte
 
 Well, the proxy server will help us to solve this problem, we "broadcast" all these settings to it and no "hackers" will bypass our mega-services. The main thing is to set it up correctly so that the CEO does not consider it a hacker during demos.
 
-![reverse_proxy3](/posts/tools/reverse_proxy3.png)
+![reverse_proxy3](/posts/tools/reverse_proxy3.svg#center)
 
 ### Act fourth
 
@@ -82,7 +82,7 @@ A/B testing can be configured with a proxy server, what could be better than a c
 
 After the introduction of this feature, the reputation of your application will not suffer as much as it did before the introduction of A/B testing, because negative comments will be written only by a narrow circle of "lucky ones".
 
-![reverse_proxy4](/posts/tools/reverse_proxy4.png)
+![reverse_proxy4](/posts/tools/reverse_proxy4.svg#center)
 
 ## Summarizing the above
 

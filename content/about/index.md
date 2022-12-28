@@ -1,4 +1,4 @@
-![about](/img/about.png#center)
+![about](/img/about.jpg#center)
 
 Solution Architect is a blog dedicated to sharing information about software technologies for building applications. Our focus is on providing in-depth and accurate information about a wide range of topics, including software architecture, DevOps, cloud computing, containerization, microservices, continuous delivery, continuous integration, agile development, infrastructure as code, configuration management, version control, code review, automated testing, deployment pipelines, monitoring, log analysis, alerting, security, scalability, reliability, availability, performance, efficiency, and automation.
 

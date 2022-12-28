@@ -20,7 +20,7 @@ draft: false
 
 > SLSA website: https://slsa.dev/
 
-![Supply chain](/posts/slsa-supply.png)
+![Supply chain](/posts/slsa-supply.svg#center)
 
 Let's start with a brief introduction to SLSA and its mission. SLSA is a non-profit organization that aims to improve the safety and security of software through the promotion of best practices and the establishment of industry standards. It was founded in 2020 in response to the increasing reliance on software in all aspects of modern life, and the need for a trusted authority to oversee the development and use of software.
 
