@@ -62,3 +62,5 @@ Once you have the proxy injected into your service, you can use Istio to configu
 ## Summary
 
 Istio is an open-source service mesh that helps to manage and monitor communication between services, improve performance and reliability, and make systems more resilient and fault-tolerant. It provides features such as traffic routing, observability tools, and circuit breaking and retries. Istio can be installed on a cluster and used to manage communication between services by injecting a proxy into their pods. It is widely adopted and can be used to improve the performance, reliability, and resiliency of distributed systems.
+
+{{< youtube nCQHr0tfCkQ >}}
