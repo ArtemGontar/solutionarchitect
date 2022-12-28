@@ -14,6 +14,9 @@ keywords:
 - Software safety
 - Software quality
 draft: false
+authors: ["Artsiom Hontar"]
+categories: ["frameworks"]
+tags: ["SLSA"]
 ---
 
 ## Introduction

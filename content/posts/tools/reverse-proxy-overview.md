@@ -10,21 +10,24 @@ keywords:
 - envoy
 - traefik
 draft: false
+authors: ["Artsiom Hontar"]
+categories: ["Tools"]
+tags: ["HAProxy", "Nginx", "Envoy", "Traefik"]
 ---
 
 There are a wide variety of reverse proxy servers currently available. I will only list a couple of them.
 
-- Nginx
-- Envoy
-- HAProxy
-- Traefik
+- [Nginx](https://www.nginx.com/)
+- [Envoy](https://www.envoyproxy.io/)
+- [HAProxy](http://www.haproxy.org/)
+- [Traefik](https://traefik.io/)
 
 Also, every self-respecting cloud provider has its own proxy server.
 
-- AWS Elastic LoadBalancer
-- Google Cloud Load Balancer
-- DigitalOcean Load Balancer
-- Azure load balancer
+- [AWS Elastic LoadBalancer](https://aws.amazon.com/ru/elasticloadbalancing/)
+- [Google Cloud Load Balancer](https://cloud.google.com/load-balancing)
+- [DigitalOcean Load Balancer](https://www.digitalocean.com/products/load-balancer)
+- [Azure load balancer](https://azure.microsoft.com/en-us/products/load-balancer/)
 
 Let's define the word reverse proxy server.
 

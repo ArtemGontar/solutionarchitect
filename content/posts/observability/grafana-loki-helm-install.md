@@ -11,6 +11,9 @@ keywords:
 - configure
 - promtail
 draft: false
+authors: ["Artsiom Hontar"]
+categories: ["Observability"]
+tags: ["Grafana", "Loki", "Cloud Native", "Helm"]
 ---
 
 ## About to start configuring

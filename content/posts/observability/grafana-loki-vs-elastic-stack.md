@@ -24,11 +24,14 @@ keywords:
   - Pricing
   - Comparison
 draft: false
+authors: ["Artsiom Hontar"]
+categories: ["Observability"]
+tags: ["Grafana", "Loki", "Elasticsearch", "Kibana", "Cloud Native", "Helm"]
 ---
 
 ![Versus](/posts/observability/versus-preview.jpg#center)
 
-The Grafana Loki and Elastic Stack are both powerful tools used for log management and analysis. Both have their own unique features and capabilities, and in this article, we will compare the two to help you determine which is the best fit for your needs.
+The [Grafana Loki](https://grafana.com/oss/loki/) and [Elastic Stack](https://www.elastic.co/elastic-stack) are both powerful tools used for log management and analysis. Both have their own unique features and capabilities, and in this article, we will compare the two to help you determine which is the best fit for your needs.
 
 ## Grafana Loki
 

@@ -16,7 +16,9 @@ keywords:
   - load impact
   - open source performance testing
 draft: false
-# authors: ["Artsiom Hontar"]
+authors: ["Artsiom Hontar"]
+categories: ["Performance"]
+tags: ["k6", "Grafana Labs"]
 ---
 
 Hello and welcome to this post on the k6 performance testing tool.
@@ -25,7 +27,7 @@ Hello and welcome to this post on the k6 performance testing tool.
 
 ## What is performance testing?
 
-Performance testing is an important part of the software development process, as it helps ensure that our applications can handle the expected load and usage. In this video, we will be introducing k6, a popular open-source tool for performance testing.
+Performance testing is an important part of the software development process, as it helps ensure that our applications can handle the expected load and usage. In this video, we will be introducing [k6](https://k6.io/), a popular open-source tool for performance testing.
 
 First, let's define what performance testing is. Performance testing is the process of evaluating the speed, scalability, and stability of a software application under a certain workload. It helps us identify and fix performance issues before our application is deployed to production.
 
@@ -33,7 +35,7 @@ There are several types of performance tests, including load testing, stress tes
 
 ## What is k6 performance tool?
 
-Now, let's talk about k6. k6 is a modern, open-source load testing tool that allows you to easily and accurately test the performance of your web applications. It was developed by Load Impact, a company specializing in performance testing solutions.
+Now, let's talk about [k6](https://k6.io/). k6 is a modern, open-source load testing tool that allows you to easily and accurately test the performance of your web applications. It was developed by Load Impact, a company specializing in performance testing solutions.
 
 One of the main features of k6 is its simplicity. It has a simple, easy-to-use interface and requires minimal setup. It also has a wide range of options for customizing your tests, including the ability to use JavaScript to write custom test scripts.
 

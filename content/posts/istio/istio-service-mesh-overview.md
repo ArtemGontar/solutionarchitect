@@ -20,7 +20,9 @@ keywords:
   - IBM
   - Lyft
 draft: false
-# authors: ["Artsiom Hontar"]
+authors: ["Artsiom Hontar"]
+categories: ["Istio"]
+tags: ["Kubernetes", "Istio", "Cloud Native"]
 ---
 
 ![Preview](/posts/istio/preview.jpg#center)
