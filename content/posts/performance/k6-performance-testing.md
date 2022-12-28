@@ -1,7 +1,7 @@
 ---
 title: "k6: Performance testing"
 description: "Performance testing is an essential part of development process, it helps ensure that our applications can handle the expected load and usage."
-date: 2022-12-26T20:13:07+02:00
+date: 2022-12-21T20:13:07+02:00
 keywords:
   - k6
   - performance testing
