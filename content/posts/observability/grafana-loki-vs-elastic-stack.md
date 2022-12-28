@@ -1,6 +1,6 @@
 ---
 title: "Comparing Grafana Loki and Elastic stack"
-description: "In this article, we compared Grafana Loki and the Elastic Stack, two popular tools for log management and analysis. We discussed the key features and capabilities of each tool, as well as their pros and cons. We also compared the pricing and discussed the suitability of each tool for different types of businesses."
+description: "Compared Grafana Loki and the Elastic Stack, two popular tools for log management and analysis. Compared the pricing"
 date: 2022-09-07T11:13:07+02:00
 keywords:
   - Log management

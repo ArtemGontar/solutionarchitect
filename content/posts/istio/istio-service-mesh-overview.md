@@ -1,6 +1,6 @@
 ---
 title: "Istio service mesh overview"
-description: "This article discusses the concept of a service mesh and how it can be used to improve the performance, reliability, and resiliency of distributed systems. A service mesh is a dedicated infrastructure layer for handling service-to-service communication, consisting of a set of proxies that act as intermediaries between services and handle tasks such as routing traffic, load balancing, and monitoring."
+description: "Discusses the concept of a service mesh and how it can be used to improve the performance, reliability, and resiliency of distributed systems."
 date: 2022-10-15T18:13:07+02:00
 keywords:
   - Istio service mesh

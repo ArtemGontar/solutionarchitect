@@ -1,6 +1,6 @@
 ---
 title: "k6: Performance testing"
-description: "Performance testing is an essential part of the software development process, as it helps ensure that our applications can handle the expected load and usage. k6 is a modern, easy-to-use load testing tool that allows you to accurately test the performance of your web applications."
+description: "Performance testing is an essential part of development process, it helps ensure that our applications can handle the expected load and usage."
 date: 2022-12-26T20:13:07+02:00
 keywords:
   - k6

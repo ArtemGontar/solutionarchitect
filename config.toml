@@ -27,9 +27,9 @@ disqusShortname = "solutionarchitect"
 
 [params]
     author = "Artsiom Hontar"
-    description = "Solution architect blog"
+    description = "Solution Architect is a blog dedicated to sharing information about software technologies for building applications."
     keywords = "blog,developer,digital,personal,solution,architect,engineer,engineering,software architecture,DevOps,cloud computing,containerization,microservices,continuous delivery,continuous integration,agile development,infrastructure as code,configuration management,version control,code review,automated testing,deployment pipelines,monitoring,log analysis,alerting,security,scalability,reliability,availability,performance,efficiency,automation,orchestration,container orchestration,Kubernetes,Docker,AWS,Azure,Google Cloud,OpenStack,Cloud Foundry,serverless,event-driven architecture,distributed systems,distributed computing,data pipelines,data engineering,data analytics,big data,machine learning,artificial intelligence,data visualization,data storage,data processing,data governance,data security,data privacy,data management"
-    info = "Engineering - this is the way"
+    info = "Software Engineering - this is the way"
     avatarURL = "img/logo.png"
     avatarURLDark = "img/logo-dark.png"
     #footerContent = "Enter a text here."
