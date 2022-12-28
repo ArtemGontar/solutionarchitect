@@ -1,6 +1,6 @@
 ---
 title: "SLSA (Software License and Safety Authority)"
-description: "This article discusses SLSA (Software License and Safety Authority), a non-profit organization that promotes the use of open source software and establishes industry standards for software development. It covers the goals and mission of SLSA, as well as the resources and support it provides for software developers. The article also highlights the importance of software security and how SLSA works to improve the safety and security of software. The article provides examples of how SLSA has been used in the software industry and gives an overview of how to approach using the SLSA framework."
+description: "This article discusses SLSA (Software License and Safety Authority), a non-profit organization that promotes the use of open source software and establishes industry standards for software development. It covers the goals and mission of SLSA, as well as the resources and support it provides for software developers."
 date: 2022-11-20T19:13:07+02:00
 keywords:
 - Software License and Safety Authority (SLSA)

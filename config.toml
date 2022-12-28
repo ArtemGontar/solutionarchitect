@@ -2,7 +2,9 @@ baseURL = "https://solutionarchitectureblog.com/"
 title = "SolutionArchitect"
 theme = "hugo-coder"
 languageCode = "en"
+copyright = "2022 Artsiom Hontar All rights reserved"
 defaultContentLanguage = "en"
+enableRobotsTXT = true
 
 paginate = 20
 
@@ -13,6 +15,10 @@ pygmentsCodeFencesGuessSyntax = true
 googleAnalytics = "G-3QF8FQB2LE"
 googleAnalyticsAsync = false
 disqusShortname = "solutionarchitect"
+
+[author]
+    name = "Artsiom Hontar"
+    email = "artemgontar16@gmail.com"
 
 [sitemap]
     changefreq = "weekly"

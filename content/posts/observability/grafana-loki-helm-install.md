@@ -1,6 +1,6 @@
 ---
 title: "How to configure Grafana Loki with Helm into Kubernetes"
-description: "This article provides instructions for installing and configuring a Loki stack, which consists of the Loki log aggregation system, the Promtail log shipping agent, and the Grafana visualization platform. The article explains how to add the Grafana Helm charts repository to Helm and install the Loki stack, and how to enable Grafana support in the installation. The article also provides instructions for using Grafana to view and query logs using the Loki data source and LogQL query language. The article discusses options for changing the log shipping agent, including using alternative log shipping agents such as Docker Driver, Fluentd, Fluent Bit, or Logstash. The article also explains how to customize the configuration of the Loki stack, including options for specifying the storage backend and configuring alerting. Finally, the article provides troubleshooting tips for common issues that may arise when using the Loki stack."
+description: "This article provides instructions for installing and configuring a Loki stack, which consists of the Loki log aggregation system, the Promtail log shipping agent, and the Grafana visualization platform. The article explains how to add the Grafana Helm charts repository to Helm and install the Loki stack, and how to enable Grafana support in the installation."
 date: 2022-01-24T11:13:07+02:00
 keywords:
 - grafana
