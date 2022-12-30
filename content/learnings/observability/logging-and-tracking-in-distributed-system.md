@@ -22,6 +22,7 @@ keywords:
 draft: false
 authors: ["Artsiom Hontar"]
 categories: ["Observability"]
+series: ["Observability"]
 tags: ["Distributed systems", "Observability"]
 ---
 
