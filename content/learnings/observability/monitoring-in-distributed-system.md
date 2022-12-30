@@ -1,7 +1,7 @@
 ---
 title: "Monitoring and metrics in distributed systems"
 description: "Key methods and frameworks for monitoring and measuring distributed systems: the RED Method, the USE Method, and the Four Golden Signals method."
-date: 2022-11-07T11:13:07+02:00
+date: 2022-10-24T14:53:07+02:00
 keywords:
  - monitoring
  - metrics
@@ -25,25 +25,24 @@ tags: ["Distributed systems", "Observability"]
 ---
 
 Table of content:
-1. [Introduction to distributed systems and observability](/posts/observability/intro-to-distributed-observability/)
+1. [Introduction to distributed systems and observability](/learnings/observability/intro-to-distributed-observability/)
 2. (->) Monitoring and metrics in distributed systems
-3. Logging in distributed systems
-4. Tracing in distributed systems
-5. Alerting and incident response in distributed systems
-6. Debugging distributed systems using tracing and logs
-7. Understanding distributed system performance using metrics and traces
-8. Implementing distributed tracing in Golang using OpenTracing
-9. Logging Golang applications with Loki
-10. Monitoring Golang applications with Prometheus
-11. Visualizing and alerting on distributed system data with Grafana
+3. [Logging and Tracing in distributed systems](/learnings/observability/logging-and-tracking-in-distributed-system/)
+4. [Alerting and incident response in distributed systems](/learnings/observability/alerting-and-incidents-in-distributed-system/)
+6. [Debugging distributed systems using tracing and logs](/learnings/observability/debugging-distributed-system)
+7. [Understanding distributed system performance using metrics and traces](/learnings/observability/understanding-performance-in-distributed-system/)
+8. [Implementing distributed tracing in Golang using OpenTracing](/learnings/observability/implementing-distributed-tracing/)
+9. [TBD] Logging Golang applications with Loki
+10. [TBD] Monitoring Golang applications with Prometheus
+11. [TBD] Visualizing and alerting on distributed system data with Grafana
 
-![Poster](/posts/observability/monitoring-in-distributed-system/poster.jpg)
+![Poster](/learnings/observability/monitoring-in-distributed-system/poster.jpg)
 
 ## Introduction
 
 Monitoring and metrics are essential tools for understanding the behavior of distributed systems. By collecting and analyzing data on system performance, we can identify and resolve issues, optimize resources, and improve the overall reliability and effectiveness of our systems.
 
-![Metrics](/posts/observability/monitoring-in-distributed-system/metrics.jpg)
+![Metrics](/learnings/observability/monitoring-in-distributed-system/metrics.jpg)
 
 ## Key aspects for monitoring and metrics in distributed systems
 

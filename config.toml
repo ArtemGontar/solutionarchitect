@@ -103,9 +103,9 @@ disqusShortname = "solutionarchitect"
             weight = 2
             url = "posts/"
             [[languages.en.menu.main]]
-            name = "Projects"
+            name = "Learning pathes"
             weight = 3
-            url = "projects/"
+            url = "learnings/"
             [[languages.en.menu.main]]
             name = "Contact me"
             weight = 5
