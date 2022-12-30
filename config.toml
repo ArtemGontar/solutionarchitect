@@ -70,22 +70,22 @@ disqusShortname = "solutionarchitect"
 
 [[params.social]]
     name = "Github"
-    icon = "fa fa-github"
+    icon = "fa fa-2x fa-github"
     weight = 1
     url = "https://github.com/ArtemGontar"
 [[params.social]]
     name = "Telegram"
-    icon = "fa fa-telegram"
+    icon = "fa fa-2x fa-telegram"
     weight = 3
     url = "tg://resolve?domain=solution_architect"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fa fa-linkedin"
+    icon = "fa fa-2x fa-linkedin"
     weight = 4
     url = "https://www.linkedin.com/in/artem-hontar-2679a717b/"
 [[params.social]]
     name = "Instagram"
-    icon = "fa fa-instagram"
+    icon = "fa fa-2x fa-instagram"
     weight = 5
     url = "https://www.instagram.com/solution_architecture/"
 
