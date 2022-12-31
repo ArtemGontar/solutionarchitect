@@ -3252,6 +3252,12 @@ figure {
 .fas {
   font-weight: 900; }
 
+img[src$='#center'] {
+  display: block;
+  margin: 1.0rem auto;
+  max-width: 100%;
+  height: auto; }
+
 .content {
   flex: 1;
   display: flex;
