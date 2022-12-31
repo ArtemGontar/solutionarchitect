@@ -28,9 +28,9 @@ Table of content:
 6. [Debugging distributed systems using tracing and logs](/learnings/observability/debugging-distributed-system)
 7. [Understanding distributed system performance using metrics and traces](/learnings/observability/understanding-performance-in-distributed-system/)
 8. [Implementing distributed tracing in Golang using OpenTracing](/learnings/observability/implementing-distributed-tracing/)
-9. [TBD] Logging Golang applications with Loki
-10. [TBD] Monitoring Golang applications with Prometheus
-11. [TBD] Visualizing and alerting on distributed system data with Grafana
+9. [Logging Golang applications with Loki](/learnings/observability/logging-golang-with-loki/)
+10. [Monitoring Golang applications with Prometheus](/learnings/observability/monitoring-golang-with-prometheus/)
+11. [Visualizing and alerting on distributed system data with Grafana](/learnings/observability/vizualize-and-alerting-with-grafana/)
 
 ![Poster](/learnings/observability/intro-to-distributed-observability/poster.jpg)
 
