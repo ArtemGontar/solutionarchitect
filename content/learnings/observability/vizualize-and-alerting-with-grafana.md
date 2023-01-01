@@ -56,7 +56,8 @@ Table of content:
 ![Poster](/learnings/observability/vizualize-and-alerting-with-grafana/poster.jpg)
 
 ## Installing and Configuring Grafana
-Grafana is a popular open-source visualization and monitoring platform that is widely used to visualize and alert on data from distributed systems. In this article, we will explore how to use Grafana to visualize and alert on distributed system data, with examples and screenshots from some of the most popular Grafana dashboards.
+
+[Grafana](https://grafana.com/grafana/) is a popular open-source visualization and monitoring platform that is widely used to visualize and alert on data from distributed systems. In this article, we will explore how to use Grafana to visualize and alert on distributed system data, with examples and screenshots from some of the most popular Grafana dashboards.
 
 To use Grafana, we first need to install it and set it up. Grafana can be installed on a variety of platforms, including Linux, Windows, and Docker, and can be configured to collect data from a variety of sources, including Prometheus, Loki, Elasticsearch, and InfluxDB.
 
@@ -65,12 +66,13 @@ To use Grafana, we first need to install it and set it up. Grafana can be instal
 To install and configure Grafana, follow these steps:
 
 Download and install Grafana:
-1. Pull the Grafana Docker image from Docker Hub and run it using the following command:
+1. Pull the [Grafana Docker image](https://hub.docker.com/r/grafana/grafana) from Docker Hub and run it using the following command:
 ```bash
 docker run -d --name=grafana -p 3000:3000 grafana/grafana
 ```
 
 2. Start the Grafana container using the following command:
+
 ```bash
 docker start grafana
 ```
@@ -79,7 +81,7 @@ docker start grafana
 
 To install and configure Grafana on a Kubernetes cluster, you will need to follow these steps:
 
-Install the Grafana Helm chart. The Helm chart is a package manager for Kubernetes that makes it easy to install and manage applications on a cluster. To install the Grafana Helm chart, you will need to have Helm installed on your cluster. You can install Helm using the instructions in the Helm documentation.
+Install the [Grafana Helm chart](https://github.com/grafana/helm-charts). The Helm chart is a package manager for Kubernetes that makes it easy to install and manage applications on a cluster. To install the Grafana Helm chart, you will need to have Helm installed on your cluster. You can install Helm using the instructions in the Helm documentation.
 Once Helm is installed, you can use it to install the Grafana Helm chart. To do this, run the following command:
 
 ```bash
@@ -92,7 +94,7 @@ Expose the Grafana service. The Grafana service is the Kubernetes service that e
 ```bash
 kubectl expose deployment grafana --type=LoadBalancer --port=3000 --target-port=3000
 ```
-This command will create a LoadBalancer service that exposes the Grafana API and UI on port 3000. The `--type` flag specifies the type of service to create, while the `--port` and `--target-port` flags specify the port to expose and the target port on the Grafana pod, respectively.
+This command will create a `LoadBalancer` service that exposes the Grafana API and UI on port 3000. The `--type` flag specifies the type of service to create, while the `--port` and `--target-port` flags specify the port to expose and the target port on the Grafana pod, respectively.
 
 Access the Grafana UI. Once the Grafana service is exposed, you can access the Grafana UI using a web browser. To do this, you will need to get the public IP address or hostname of the service. You can use the `kubectl get service` command to get the public IP address or hostname of the Grafana service. For example:
 
@@ -126,6 +128,6 @@ To create an alert in Grafana, we need to define an alert rule that specifies th
 Once an alert is triggered, Grafana can send notifications to one or more notification channels, such as email, Slack, or PagerDuty, to inform the relevant parties about the alert. Grafana also provides a rich set of options for managing and tracking alerts, including alert history, alert states, and alert silencing.
 
 ## Popular Grafana Dashboards for Distributed Systems
-Grafana is a powerful and flexible tool for visualizing and alerting on distributed system data. By using Grafana and its rich set of visualization and alerting options, we can gain valuable insights into the behavior and performance of our distributed systems and take appropriate action to optimize and improve them. Some of the most popular Grafana dashboards include the Prometheus Stats dashboard, the Kubernetes dashboard, and the MySQL dashboard. These dashboards provide a wealth of information and can be customized to suit the needs of a particular system.
+Grafana is a powerful and flexible tool for visualizing and alerting on distributed system data. By using Grafana and its rich set of visualization and alerting options, we can gain valuable insights into the behavior and performance of our distributed systems and take appropriate action to optimize and improve them. Some of the most popular Grafana dashboards include the [Prometheus Stats dashboard](https://grafana.com/grafana/dashboards/2-prometheus-stats/), the [Kubernetes dashboard](https://grafana.com/grafana/dashboards/6417-kubernetes-cluster-prometheus/), and the [MySQL dashboard](https://grafana.com/grafana/dashboards/7362-mysql-overview/). These dashboards provide a wealth of information and can be customized to suit the needs of a particular system.
 
 ![Vendor dashboards](/learnings/observability/vizualize-and-alerting-with-grafana/vendor-dashboards.jpg)
