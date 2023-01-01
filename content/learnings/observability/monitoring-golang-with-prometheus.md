@@ -28,7 +28,7 @@ draft: false
 Table of content:
 1. [Introduction to distributed systems and observability](/learnings/observability/intro-to-distributed-observability/)
 2. [Monitoring and metrics in distributed systems](/learnings/observability/monitoring-in-distributed-system/)
-3. [Logging and Tracing in distributed systems](/learnings/observability/logging-and-tracking-in-distributed-system/)
+3. [Logging and Tracing in distributed systems](/learnings/observability/logging-and-tracing-in-distributed-system/)
 4. [Alerting and incident response in distributed systems](/learnings/observability/alerting-and-incidents-in-distributed-system/)
 6. [Debugging distributed systems using tracing and logs](/learnings/observability/debugging-distributed-system)
 7. [Understanding distributed system performance using metrics and traces](/learnings/observability/understanding-performance-in-distributed-system/)
@@ -41,9 +41,9 @@ Table of content:
 
 Prometheus is a popular open-source monitoring tool that is widely used to monitor the performance and health of applications and systems. In this article, we will explore how to use Prometheus to monitor Golang applications.
 
-## Code Sample
+## Using Prometheus with Golang
 
-To use Prometheus with Golang, we first need to install the Prometheus client library for Golang. This can be done using the following command:
+To use Prometheus with Golang, we first need to install the [Prometheus client library for Golang](https://github.com/prometheus/client_golang). This can be done using the following command:
 
 ```bash
 go get github.com/prometheus/client_golang/prometheus
@@ -52,7 +52,7 @@ Once the library is installed, we can start using it in our Golang code. The Pro
 
 One of the key concepts in Prometheus is the metric. A metric is a quantitative measure of some aspect of our application, such as the number of requests processed, the response time of a service, or the CPU usage of a process. Prometheus provides a number of different metric types, including counter, gauge, and histogram, which can be used to track different types of metrics.
 
-To collect metrics in our Golang application, we can use the NewCounter, NewGauge, and NewHistogram functions from the Prometheus client library. These functions take a number of arguments, including the name of the metric, any relevant labels, and the help text for the metric. For example:
+To collect metrics in our Golang application, we can use the `NewCounter`, `NewGauge`, and `NewHistogram` functions from the Prometheus client library. These functions take a number of arguments, including the name of the metric, any relevant labels, and the help text for the metric. For example:
 
 ```golang
 requestCounter := prometheus.NewCounter(
@@ -71,7 +71,7 @@ responseTime := prometheus.NewHistogram(
 )
 ```
 
-Once we have defined our metrics, we can use them to track the performance and behavior of our application. For example, we can use a counter to track the number of requests processed, or a histogram to track the distribution of response times. To record a value for a metric, we can use the Inc or Observe functions from the Prometheus client library. For example:
+Once we have defined our metrics, we can use them to track the performance and behavior of our application. For example, we can use a counter to track the number of requests processed, or a histogram to track the distribution of response times. To record a value for a metric, we can use the `Inc` or `Observe` functions from the Prometheus client library. For example:
 
 ```golang
 requestCounter.Inc()
@@ -89,4 +89,8 @@ http.ListenAndServe(":8080", nil)
 Once the metrics are exposed to Prometheus, we can use Prometheus to monitor and visualize them. Prometheus provides a rich query language and a powerful visualization tool called Grafana that can be used to analyze and understand the collected metrics.
 
 ## Summary
+
 Monitoring Golang applications with Prometheus is a powerful and effective way to understand the performance and behavior of our applications. By using the Prometheus client library and its integrations with other tools such as Grafana, we can gain valuable insights into the health and performance of our systems and take appropriate action to optimize and improve them.
+
+## Resources
+- [Prometheus client library for Golang](https://github.com/prometheus/client_golang)

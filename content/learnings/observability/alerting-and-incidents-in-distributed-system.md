@@ -34,7 +34,7 @@ tags: ["Distributed systems", "Observability"]
 Table of content:
 1. [Introduction to distributed systems and observability](/learnings/observability/intro-to-distributed-observability/)
 2. [Monitoring and metrics in distributed systems](/learnings/observability/monitoring-in-distributed-system/)
-3. [Logging and Tracing in distributed systems](/learnings/observability/logging-and-tracking-in-distributed-system/)
+3. [Logging and Tracing in distributed systems](/learnings/observability/logging-and-tracing-in-distributed-system/)
 4. (->) Alerting and incident response in distributed systems
 6. [Debugging distributed systems using tracing and logs](/learnings/observability/debugging-distributed-system)
 7. [Understanding distributed system performance using metrics and traces](/learnings/observability/understanding-performance-in-distributed-system/)
@@ -47,12 +47,12 @@ Table of content:
 
 Alerting and incident response are essential aspects of managing distributed systems. They involve monitoring the health and performance of our systems, identifying issues and problems, and taking appropriate action to resolve them.
 
-## Key points
-Incident Type/Severity Classification is a key consideration when designing an alerting and incident response system. It involves categorizing incidents based on their type and severity, and defining appropriate response procedures for each category. This can help us prioritize and manage incidents more effectively, and ensure that the most critical issues are addressed first.
+## Effective Incident Management: Techniques for Type/Severity Classification and Event Flood Control
+[Incident Type/Severity Classification](https://about.gitlab.com/handbook/security/security-operations/sirt/severity-matrix.html) is a key consideration when designing an alerting and incident response system. It involves categorizing incidents based on their type and severity, and defining appropriate response procedures for each category. This can help us prioritize and manage incidents more effectively, and ensure that the most critical issues are addressed first.
 
-Event Flood Control is another important aspect of alerting and incident response in distributed systems. It involves implementing mechanisms to prevent an excessive number of alerts or incidents from overwhelming our response teams or systems. This can include techniques such as rate limiting, thresholding, and deduplication, which can help us control the flow of alerts and incidents and ensure that our teams are able to handle them effectively.
+[Event Flood Control](https://www.ibm.com/docs/en/nnm/9.2.0?topic=SSNFET_9.2.0/com.ibm.netcool_OMNIbus.doc_7.4.0/omnibus/wip/probegtwy/concept/omn_prb_floodanomalydetection.htm) is another important aspect of alerting and incident response in distributed systems. It involves implementing mechanisms to prevent an excessive number of alerts or incidents from overwhelming our response teams or systems. This can include techniques such as rate limiting, thresholding, and deduplication, which can help us control the flow of alerts and incidents and ensure that our teams are able to handle them effectively.
 
-## Best Practices
+## Best Practices for Effective Alerting and Incident Response
 
 - Define clear and consistent alerting policies: It is important to define clear policies for what types of events should trigger alerts, and how these alerts should be escalated and addressed. This can help ensure that our teams are aware of the most critical issues and can respond appropriately.
 
@@ -65,26 +65,29 @@ Event Flood Control is another important aspect of alerting and incident respons
 - Monitor and track incidents: It is important to monitor and track incidents as they are being addressed, and to document the steps taken to resolve them. This can help us understand the root causes of incidents and identify opportunities for improvement.
 
 ## Tools for Alerting and Incidents management
+
 There are several tools and platforms available for managing alerts and incidents in distributed systems. Some examples include:
 
-- Alertmanager: Alertmanager is a tool for managing alerts in the Prometheus monitoring system. It allows users to define alerting rules, route alerts to the appropriate recipients, and take appropriate action to resolve them.
+- [Alertmanager](https://grafana.com/products/alerting): Alertmanager is a tool for managing alerts in the Prometheus monitoring system. It allows users to define alerting rules, route alerts to the appropriate recipients, and take appropriate action to resolve them.
 
-- Nagios: Nagios is a widely-used open-source monitoring and alerting tool. It allows users to define monitoring policies and rules, and to receive alerts when issues are detected.
+- [Nagios](https://www.nagios.org/): Nagios is a widely-used open-source monitoring and alerting tool. It allows users to define monitoring policies and rules, and to receive alerts when issues are detected.
 
-- Zabbix: Zabbix is another open-source monitoring and alerting tool. It provides features such as real-time monitoring, alerting, and reporting, and can be used to monitor a wide range of systems and resources.
+- [Zabbix](https://www.zabbix.com/): Zabbix is another open-source monitoring and alerting tool. It provides features such as real-time monitoring, alerting, and reporting, and can be used to monitor a wide range of systems and resources.
 
-- PagerDuty: PagerDuty is a cloud-based incident response platform that allows teams to manage and respond to alerts and incidents in real-time. It provides features such as on-call scheduling, incident escalation, and integration with a variety of monitoring and alerting tools.
+- [PagerDuty](https://www.pagerduty.com/): PagerDuty is a cloud-based incident response platform that allows teams to manage and respond to alerts and incidents in real-time. It provides features such as on-call scheduling, incident escalation, and integration with a variety of monitoring and alerting tools.
 
-- VictorOps: VictorOps is another incident response platform that offers features such as on-call scheduling, incident collaboration, and integration with a variety of monitoring and alerting tools. It also provides support for incident playbooks, which are pre-defined responses to specific types of incidents.
+- [VictorOps](https://portal.victorops.com/): VictorOps is another incident response platform that offers features such as on-call scheduling, incident collaboration, and integration with a variety of monitoring and alerting tools. It also provides support for incident playbooks, which are pre-defined responses to specific types of incidents.
 
-- Slack: Slack is a collaboration platform that can be used to manage alerts and incidents in distributed systems. It provides features such as real-time messaging, channel organization, and integration with a variety of monitoring and alerting tools.
+- [Datadog](https://www.datadoghq.com/): Datadog is a cloud-based monitoring and alerting platform. It provides features such as real-time monitoring, alerting, and analytics, and can be used to monitor a wide range of systems and resources.
 
-- Datadog: Datadog is a cloud-based monitoring and alerting platform. It provides features such as real-time monitoring, alerting, and analytics, and can be used to monitor a wide range of systems and resources.
+- [Splunk](https://www.splunk.com/): Splunk is a data analysis and visualization platform that can be used for monitoring and alerting. It provides features such as real-time data collection, search, and analysis, and can be used to monitor a wide range of systems and resources.
 
-- Splunk: Splunk is a data analysis and visualization platform that can be used for monitoring and alerting. It provides features such as real-time data collection, search, and analysis, and can be used to monitor a wide range of systems and resources.
-
-- New Relic: New Relic is a cloud-based monitoring and alerting platform. It provides features such as real-time monitoring, alerting, and analytics, and can be used to monitor a wide range of systems and resources.
+- [New Relic](https://newrelic.com/): New Relic is a cloud-based monitoring and alerting platform. It provides features such as real-time monitoring, alerting, and analytics, and can be used to monitor a wide range of systems and resources.
 
 ## Summary
 
 Alerting and incident response are crucial aspects of managing distributed systems. By implementing effective alerting and incident response practices, and using tools and platforms such as PagerDuty, VictorOps, and Slack, we can build systems that are more resilient, scalable, and able to deliver value to our users.
+
+## Resources
+- [Incident Type/Severity Classification GitLab post](https://about.gitlab.com/handbook/security/security-operations/sirt/severity-matrix.html)
+- [Event Flood Control IBM post](https://www.ibm.com/docs/en/nnm/9.2.0?topic=SSNFET_9.2.0/com.ibm.netcool_OMNIbus.doc_7.4.0/omnibus/wip/probegtwy/concept/omn_prb_floodanomalydetection.htm)

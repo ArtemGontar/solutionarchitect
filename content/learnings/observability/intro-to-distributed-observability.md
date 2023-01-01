@@ -23,7 +23,7 @@ tags: ["Distributed systems", "Observability"]
 Table of content:
 1. (->) Introduction to distributed systems and observability
 2. [Monitoring and metrics in distributed systems](/learnings/observability/monitoring-in-distributed-system/)
-3. [Logging and Tracing in distributed systems](/learnings/observability/logging-and-tracking-in-distributed-system/)
+3. [Logging and Tracing in distributed systems](/learnings/observability/logging-and-tracing-in-distributed-system/)
 4. [Alerting and incident response in distributed systems](/learnings/observability/alerting-and-incidents-in-distributed-system/)
 6. [Debugging distributed systems using tracing and logs](/learnings/observability/debugging-distributed-system)
 7. [Understanding distributed system performance using metrics and traces](/learnings/observability/understanding-performance-in-distributed-system/)
@@ -44,7 +44,7 @@ Observability is a key aspect of distributed systems. It refers to the ability t
 
 ![Observability](/learnings/observability/intro-to-distributed-observability/observability.jpg)
 
-## Key benefits of observability in distributed systems:
+## Benefits of Using Observability Tools in Distributed Systems
 
 - Improved visibility: Observability tools allow us to see what is happening inside our systems and understand how they are behaving. This helps us identify problems and root causes more quickly and accurately.
 
@@ -53,4 +53,5 @@ Observability is a key aspect of distributed systems. It refers to the ability t
 - Better performance: By collecting and analyzing metrics, logs, and traces, we can gain a deeper understanding of our systems and identify opportunities for optimization. This can lead to improved performance and better utilization of resources.
 
 ## Summary
+
 Observability is a crucial aspect of distributed systems. It allows us to monitor and understand the behavior of our systems, identify and resolve issues, and optimize performance. By investing in observability, we can build more reliable and effective distributed systems that deliver value to our users.
