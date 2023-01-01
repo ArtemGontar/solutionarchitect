@@ -132,7 +132,7 @@ Once we have sent log messages to Loki, we can use the Loki query language and G
 Logging Golang applications with Loki is a powerful and effective way to understand and analyze the behavior and performance of our applications. By using the Loki client library and its integrations with other tools such as Grafana, we can gain valuable insights into the operation and performance of our systems and take appropriate action to optimize and improve them.
 
 ## Resources
-- [Zap](https://github.com/uber-go/zap
+- [Zap](https://github.com/uber-go/zap)
 - [Promtail Golang client](https://pkg.go.dev/github.com/grafana/loki/pkg/promtail)
 - [Helm](https://helm.sh/docs/)
 - [Promtail documentation](https://grafana.com/docs/loki/latest/clients/promtail/)

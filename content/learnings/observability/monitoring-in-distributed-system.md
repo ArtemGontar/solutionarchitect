@@ -74,7 +74,7 @@ There are several key methods and frameworks that can help us effectively monito
 
 Monitoring and metrics are essential for understanding and improving the performance, reliability, and correctness of distributed systems. By implementing effective monitoring and metrics practices, and using methods and frameworks like the RED Method, the USE Method, and the Four Golden Signals method, we can build systems that are more resilient, scalable, and able to deliver value to our users.
 
-Resources:
+## Resources
 - [The RED Method presentation](https://grafana.com/files/grafanacon_eu_2018/Tom_Wilkie_GrafanaCon_EU_2018.pdf)
 - [The USE Method post](https://www.brendangregg.com/usemethod.html)
 - [The Four Golden Signals SRE book](https://sre.google/sre-book/monitoring-distributed-systems/#xref_monitoring_golden-signals)
