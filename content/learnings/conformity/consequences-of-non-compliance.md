@@ -27,7 +27,7 @@ series: ["Conformity"]
 tags: ["Licenses"]
 ---
 
-Table of content:
+**Table of content**:
 1. [Introduction to Software Compliance: What It Is and Why It's Important](learnings/conformity/introduction-to-software-compliance.md)
 2. [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)
 3. [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)
@@ -57,9 +57,9 @@ The penalties for non-compliance can vary depending on the nature of the violati
 
 To give you an idea of the potential consequences of non-compliance, here are a few examples of high-profile cases:
 
-- In 2017, Equifax, a major credit reporting agency, was hit with a $700 million fine for failing to protect the personal data of millions of customers.
-- In 2019, Volkswagen agreed to pay a $4.3 billion settlement for violating emissions standards.
-- In 2020, the social media company TikTok was banned in the United States due to national security concerns related to the company's ties to China.
+- In 2017, Equifax, a major credit reporting agency, was hit with a [$700 million fine](https://www.cnbc.com/2019/07/22/what-you-need-to-know-equifax-data-breach-700-million-settlement.html) for failing to protect the personal data of millions of customers.
+- In 2019, [Volkswagen agreed to pay a $4.3 billion](https://www.justice.gov/opa/video/volkswagen-ag-agrees-plead-guilty-pay-43-billion-criminal-civil-penalties-six-volkswagen#:~:text=Volkswagen%20AG%20(VW)%20agreed%20to,mandated%20by%20the%20Environmental%20Protection) settlement for violating emissions standards.
+- In 2020, the social media company [TikTok was banned in the United States](https://www.theguardian.com/technology/2022/dec/30/us-tiktok-ban-government-devices-china) due to national security concerns related to the company's ties to China.
 
 ## Compliance Best Practices: How to Protect Your Business and Meet Requirements
 
@@ -74,4 +74,13 @@ To avoid the risks and consequences of non-compliance, it is important to proact
 - Regularly review and audit your compliance efforts: It is a good idea to regularly review and audit your compliance efforts to ensure that you are meeting all relevant requirements. This may involve conducting internal audits or seeking out external audits by qualified professionals.
 
 ## Conclusion
+
 Non-compliance can have serious risks and consequences for businesses and organizations. From financial penalties and fines to damage to reputation and relationships, the costs of non-compliance can be high. By proactively addressing compliance, however, it is possible to avoid these negative impacts and ensure the success and sustainability of your organization. So, it is very important to follow the compliance requirements to avoid these risks and consequences.
+
+## Resources
+- [Equifax to pay $700 million for massive data breach](https://www.cnbc.com/2019/07/22/what-you-need-to-know-equifax-data-breach-700-million-settlement.html)
+- [Volkswagen agreed to pay a $4.3 billion](https://www.justice.gov/opa/video/volkswagen-ag-agrees-plead-guilty-pay-43-billion-criminal-civil-penalties-six-volkswagen#:~:text=Volkswagen%20AG%20(VW)%20agreed%20to,mandated%20by%20the%20Environmental%20Protection)
+- [TikTok was banned in the United States](https://www.theguardian.com/technology/2022/dec/30/us-tiktok-ban-government-devices-china)
+
+**Next reading:**
+- [Software Compliance Audits: What to Expect and How to Prepare](learnings/conformity/software-compliance-audits.md)

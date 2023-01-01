@@ -19,7 +19,7 @@ series: ["Conformity"]
 tags: ["Compliance", "Licenses"]
 ---
 
-Table of content:
+**Table of content**:
 1. [Introduction to Software Compliance: What It Is and Why It's Important](learnings/conformity/introduction-to-software-compliance.md)
 2. (->) Software Compliance in the Workplace: A Practical Guide for Businesses
 3. [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)
@@ -45,7 +45,7 @@ It's important to understand the terms of the software licenses that your organi
 It's important to maintain an accurate inventory of all software used within the organization. This includes both purchased software and any free or open source software.
 
 ## Implement software asset management (SAM) processes
-SAM is the process of managing and optimizing the use of software within an organization. This includes things like tracking software licenses, monitoring usage, and ensuring that software is only installed on authorized devices.
+[SAM](https://www.servicenow.com/products/it-asset-management/what-is-software-asset-management.html) is the process of managing and optimizing the use of software within an organization. This includes things like tracking software licenses, monitoring usage, and ensuring that software is only installed on authorized devices.
 
 ## Conduct regular audits
 Regular audits can help identify any potential compliance issues and allow an organization to take corrective action before it becomes a larger problem.
@@ -70,3 +70,9 @@ If an organization is unsure about its software compliance status or has any oth
 
 ### Conclusion
 By following these guidelines, organizations can ensure that they are in compliance with software licenses and minimize the risk of legal and financial consequences. Proper software compliance is essential for any organization, and taking the time to implement effective software compliance processes can save time, money, and potential legal issues in the long run.
+
+## Resources
+ - [SAM](https://www.servicenow.com/products/it-asset-management/what-is-software-asset-management.html)
+
+**Next reading**:
+ - [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)

@@ -32,7 +32,7 @@ series: ["Conformity"]
 tags: ["Compliance", "Licenses"]
 ---
 
-Table of content:
+**Table of content**:
 1. [Introduction to Software Compliance: What It Is and Why It's Important](learnings/conformity/introduction-to-software-compliance.md)
 2. [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)
 3. [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)
@@ -64,3 +64,11 @@ As a software developer or IT professional, it is essential to stay informed abo
 
 ## Conclusion
 By following these tips, you can ensure that you and your team are always up-to-date on software compliance regulations and standards. This will help protect your company and your customers, and ensure that you are operating within the law.
+
+## Resources
+- [National Institute of Standards and Technology (NIST)](https://www.nist.gov/)
+- [Information Systems Audit and Control Association (ISACA)](https://www.isaca.org/)
+- [International Association of Privacy Professionals (IAPP)](https://iapp.org/)
+- [NIST Cybersecurity Conference](https://www.nist.gov/news-events/events/2023/12/9th-annual-nice-k12-cybersecurity-education-conference)
+- [ISACA Cybersecurity Nexus (CSX) conference](https://www.isaca.org/training-and-events/isaca-digital-trust-world-conference)
+- [Certified Information Systems Auditor (CISA)](https://www.isaca.org/credentialing/cisa)

@@ -23,7 +23,7 @@ series: ["Conformity"]
 tags: ["Compliance", "Licenses"]
 ---
 
-Table of content:
+**Table of content**:
 1. [Introduction to Software Compliance: What It Is and Why It's Important](learnings/conformity/introduction-to-software-compliance.md)
 2. [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)
 3. [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)
@@ -41,11 +41,13 @@ Table of content:
 As more and more companies shift to a remote work model, it is important to consider the challenges and considerations that come with managing software compliance in this environment.
 
 ## Ensuring Software Compliance in a Remote Work Setting: Strategies for Managing Devices and Systems
+
 One of the main challenges of maintaining software compliance in a remote work setting is the lack of physical control over the devices and systems being used by employees. In an office setting, it is easier to ensure that all devices and systems are properly licensed and up to date, as they are all within the control of the company. In a remote setting, however, employees may be using their own devices and systems, which can make it harder to ensure compliance.
 
 To address this challenge, companies can adopt a few different strategies. One option is to provide employees with company-owned devices that are properly licensed and configured to meet compliance requirements. This can help ensure that all devices being used to access company systems and data are compliant.
 
 ## Maintaining Software Compliance in a Remote Work Setting: The Importance of Policies, Procedures, and SAM Tools
+
 Another option is to implement strict policies and procedures for employees to follow when using their own devices for work. This could include requiring employees to install specific software and updates, as well as regularly checking that all devices are compliant.
 
 In addition to device-specific considerations, companies must also ensure that their software and systems are properly licensed and up to date. This can be particularly challenging in a remote setting, as it can be harder to track usage and ensure that all employees are using the correct versions of software.
@@ -55,3 +57,6 @@ To address this challenge, companies can implement software asset management (SA
 ## Conclusion
 
 Managing software compliance in a remote work environment requires a combination of strategies and tools to ensure that all devices and systems being used by employees are properly licensed and up to date. By implementing the right policies and procedures, and making use of tools such as SAM, companies can effectively manage compliance in a remote setting.
+
+**Next reading:**
+- [Staying Up-to-Date on Software Compliance Regulations and Standards](learnings/conformity/staying-up-to-date-on-software-compliance.md)

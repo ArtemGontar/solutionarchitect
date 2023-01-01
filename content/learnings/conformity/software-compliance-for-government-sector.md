@@ -43,7 +43,7 @@ series: ["Conformity"]
 tags: ["Compliance", "Licenses"]
 ---
 
-Table of content:
+**Table of content**:
 1. [Introduction to Software Compliance: What It Is and Why It's Important](learnings/conformity/introduction-to-software-compliance.md)
 2. [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)
 3. [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)
@@ -85,11 +85,20 @@ To ensure compliance with these and other regulations, government agencies and c
 
 ## Using ISO Standards to Ensure Software Compliance in the Government Sector
 
-- ISO/IEC 27001: This standard specifies the requirements for an information security management system (ISMS). Government agencies and contractors can use it to help ensure that their software systems are secure and compliant with relevant cybersecurity regulations.
+- [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html): This standard specifies the requirements for an information security management system (ISMS). Government agencies and contractors can use it to help ensure that their software systems are secure and compliant with relevant cybersecurity regulations.
 
-- ISO/IEC 27018: This standard provides guidance on the protection of personally identifiable information (PII) in public clouds. Government agencies and contractors that use cloud-based software systems can use it to help ensure compliance with data protection regulations.
+- [ISO/IEC 27018](https://www.iso.org/standard/76559.html): This standard provides guidance on the protection of personally identifiable information (PII) in public clouds. Government agencies and contractors that use cloud-based software systems can use it to help ensure compliance with data protection regulations.
 
-- ISO/IEC 20000: This standard specifies the requirements for a service management system (SMS) that is used to deliver and manage IT services. Government agencies and contractors can use it to help ensure that their software systems are properly managed and maintained.
+- [ISO/IEC 20000](https://www.iso.org/standard/70636.html): This standard specifies the requirements for a service management system (SMS) that is used to deliver and manage IT services. Government agencies and contractors can use it to help ensure that their software systems are properly managed and maintained.
 
 ## Conclusion
 Software compliance is a critical consideration for government agencies and contractors. By following best practices and adhering to the relevant regulations, organizations can protect against legal and regulatory issues and ensure that their software systems are secure and compliant.
+
+## Resources
+- [International Organization for Standardization (ISO) 27001](https://www.iso.org/isoiec-27001-information-security.html)
+- [ISO/IEC 27018](https://www.iso.org/standard/76559.html)
+- [ISO/IEC 20000](https://www.iso.org/standard/70636.html)
+
+**Next reading:**
+- [Ensuring Software Compliance in the Manufacturing Industry](learnings/conformity/software-compliance-for-manufacturing.md)
+- [The Consequences of Non-Compliance: Risks and Penalties](learnings/conformity/consequences-of-non-compliance.md)

@@ -28,7 +28,7 @@ series: ["Conformity"]
 tags: ["Compliance"]
 ---
 
-Table of content:
+**Table of content**:
 1. [Introduction to Software Compliance: What It Is and Why It's Important](learnings/conformity/introduction-to-software-compliance.md)
 2. [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)
 3. [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)
@@ -55,13 +55,22 @@ In terms of how to approach these regulations, it's important to start by doing 
 
 ## Using ISO Standards to Ensure Software Compliance in the E-Commerce Businesses
 
-- ISO 27001 is a standard that outlines best practices for an organization's information security management system (ISMS). It provides a framework for establishing, implementing, maintaining, and continually improving information security. This standard is relevant to e-commerce businesses because it helps to ensure the confidentiality, integrity, and availability of customer data, which is especially important in the online environment.
+- [ISO 27001](https://www.iso.org/isoiec-27001-information-security.html) is a standard that outlines best practices for an organization's information security management system (ISMS). It provides a framework for establishing, implementing, maintaining, and continually improving information security. This standard is relevant to e-commerce businesses because it helps to ensure the confidentiality, integrity, and availability of customer data, which is especially important in the online environment.
 
-- ISO 9001, on the other hand, is a standard for quality management systems (QMS). It helps organizations to consistently meet the needs of their customers, as well as regulatory and statutory requirements. For e-commerce businesses, following this standard can help to ensure that customers receive high quality products and services, which is important for building trust and maintaining a positive reputation.
+- [ISO 9001](https://www.iso.org/iso-9001-quality-management.html), on the other hand, is a standard for quality management systems (QMS). It helps organizations to consistently meet the needs of their customers, as well as regulatory and statutory requirements. For e-commerce businesses, following this standard can help to ensure that customers receive high quality products and services, which is important for building trust and maintaining a positive reputation.
 
 Both ISO 27001 and ISO 9001 are internationally recognized standards, and achieving certification to these standards can be a useful way for e-commerce businesses to demonstrate their commitment to compliance and quality. However, it's important to note that achieving certification is voluntary, and it's up to each organization to decide whether it is the right step for their business.
 
-There are many other ISO standards that may be relevant to e-commerce businesses, depending on the specific nature of the business and the products or services it offers. Some other examples include ISO 22000 for food safety management, ISO 13485 for medical devices, and ISO 14001 for environmental management. It's worth doing some research to see which standards might be relevant to your business, and considering whether achieving certification could be a useful way to demonstrate compliance and commitment to quality.
+There are many other ISO standards that may be relevant to e-commerce businesses, depending on the specific nature of the business and the products or services it offers. Some other examples include [ISO 22000](https://www.iso.org/iso-22000-food-safety-management.html) for food safety management, ISO 13485 for medical devices, and [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html) for environmental management. It's worth doing some research to see which standards might be relevant to your business, and considering whether achieving certification could be a useful way to demonstrate compliance and commitment to quality.
 
 ## Conclusion
 Compliance is an important consideration for any e-commerce business. By understanding the specific requirements that apply to your business, and by following relevant ISO or other standards, you can help to protect your business and your customers and ensure that you are operating in a responsible and legal manner.
+
+## Resources
+- [ISO 27001](https://www.iso.org/isoiec-27001-information-security.html)
+- [ISO 9001](https://www.iso.org/iso-9001-quality-management.html)
+- [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)
+- [ISO 22000](https://www.iso.org/iso-22000-food-safety-management.html)
+
+**Next reading:**
+- [The Consequences of Non-Compliance: Risks and Penalties](learnings/conformity/consequences-of-non-compliance.md)

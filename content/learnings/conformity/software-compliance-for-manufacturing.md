@@ -24,7 +24,7 @@ series: ["Conformity"]
 tags: ["Compliance"]
 ---
 
-Table of content:
+**Table of content**:
 1. [Introduction to Software Compliance: What It Is and Why It's Important](learnings/conformity/introduction-to-software-compliance.md)
 2. [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)
 3. [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)
@@ -48,11 +48,20 @@ Another important aspect of compliance in the manufacturing industry is data man
 
 ## Key ISO Standards for the Manufacturing Industry
 
-- ISO 9001: This standard provides requirements for a company's quality management system (QMS). It outlines how a company should plan, implement, and control the various processes involved in its operations, with the goal of meeting customer requirements and enhancing customer satisfaction.
+- [ISO 9001](https://www.iso.org/iso-9001-quality-management.html): This standard provides requirements for a company's quality management system (QMS). It outlines how a company should plan, implement, and control the various processes involved in its operations, with the goal of meeting customer requirements and enhancing customer satisfaction.
 
-- ISO 14001: This standard specifies requirements for an organization's environmental management system (EMS). It outlines how a company should identify and control the environmental impacts of its activities, products, or services, and improve its environmental performance.
+- [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html): This standard specifies requirements for an organization's environmental management system (EMS). It outlines how a company should identify and control the environmental impacts of its activities, products, or services, and improve its environmental performance.
 
-- ISO 45001: This standard specifies requirements for an organization's occupational health and safety management system (OHSMS). It outlines how a company should identify and control the health and safety risks associated with its operations, and continually improve its performance in this area.
+- [ISO 45001](https://www.iso.org/standard/63787.html): This standard specifies requirements for an organization's occupational health and safety management system (OHSMS). It outlines how a company should identify and control the health and safety risks associated with its operations, and continually improve its performance in this area.
 
 ## Conclusion
 Ensuring software compliance in the manufacturing industry is a complex and ongoing process. By staying up-to-date on industry-specific standards and regulations, establishing a robust QMS, and implementing effective data management systems, companies can better ensure compliance and improve their overall operations.
+
+## Resources
+- [ISO 9001](https://www.iso.org/iso-9001-quality-management.html)
+- [ISO 14001](https://www.iso.org/iso-14001-environmental-management.html)
+- [ISO 45001](https://www.iso.org/standard/63787.html)
+
+**Next reading:**
+- [Software Compliance for E-Commerce Businesses](learnings/conformity/software-compliance-for-e-commerce.md)
+- [The Consequences of Non-Compliance: Risks and Penalties](learnings/conformity/consequences-of-non-compliance.md)

@@ -29,7 +29,7 @@ series: ["Conformity"]
 tags: ["Compliance", "Licenses"]
 ---
 
-Table of content:
+**Table of content**:
 1. [Introduction to Software Compliance: What It Is and Why It's Important](learnings/conformity/introduction-to-software-compliance.md)
 2. [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)
 3. [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)
@@ -57,23 +57,40 @@ Ensuring compliance with these regulations can be challenging, as the healthcare
 
 To approach HIPAA compliance, healthcare organizations should take the following steps:
 
-Familiarize themselves with the HIPAA regulations: It is important to understand the specific requirements of HIPAA and how they apply to your organization. This includes understanding the definitions of terms such as "covered entities" and "business associates," as well as the requirements for the use and disclosure of PHI.
+- Familiarize themselves with the HIPAA regulations: It is important to understand the specific requirements of HIPAA and how they apply to your organization. This includes understanding the definitions of terms such as "covered entities" and "business associates," as well as the requirements for the use and disclosure of PHI.
 
-Conduct a risk assessment: A risk assessment can help your organization identify potential vulnerabilities in the handling of PHI and determine the appropriate safeguards to put in place.
+- Conduct a risk assessment: A risk assessment can help your organization identify potential vulnerabilities in the handling of PHI and determine the appropriate safeguards to put in place.
 
-Implement HIPAA-compliant policies and procedures: Develop and implement policies and procedures that align with the HIPAA regulations and address the risks identified in your risk assessment. These policies and procedures should cover the areas of access control, data integrity, and data transmission.
+- Implement HIPAA-compliant policies and procedures: Develop and implement policies and procedures that align with the HIPAA regulations and address the risks identified in your risk assessment. These policies and procedures should cover the areas of access control, data integrity, and data transmission.
 
-Train your employees: Ensure that all employees who handle PHI are trained on the HIPAA regulations and your organization's policies and procedures.
+- Train your employees: Ensure that all employees who handle PHI are trained on the HIPAA regulations and your organization's policies and procedures.
 
-Regularly review and update your policies and procedures: It is important to periodically review and update your policies and procedures to ensure that they are still effective and align with any changes to the HIPAA regulations.
+- Regularly review and update your policies and procedures: It is important to periodically review and update your policies and procedures to ensure that they are still effective and align with any changes to the HIPAA regulations.
 
 ## Enhancing Healthcare Quality and Security with ISO Standards
 
-One such standard is the International Organization for Standardization (ISO) 27001. ISO 27001 is an international standard for information security management that provides a framework for establishing, implementing, maintaining, and continually improving an organization's information security management system (ISMS). An ISMS is a systematic approach to managing sensitive company information so that it remains secure. ISO 27001 can be used by any organization, regardless of size or industry, and can be adapted to meet the specific security needs of a healthcare organization.
+One such standard is the [International Organization for Standardization (ISO) 27001](https://www.iso.org/isoiec-27001-information-security.html). ISO 27001 is an international standard for information security management that provides a framework for establishing, implementing, maintaining, and continually improving an organization's information security management system (ISMS). An ISMS is a systematic approach to managing sensitive company information so that it remains secure. ISO 27001 can be used by any organization, regardless of size or industry, and can be adapted to meet the specific security needs of a healthcare organization.
 
-Another standard that healthcare organizations may consider is the Health Level Seven (HL7) standard. HL7 is a set of international standards for the exchange, integration, and retrieval of electronic health information. It is designed to support interoperability between different healthcare systems and to facilitate the exchange of clinical and administrative data.
+Another standard that healthcare organizations may consider is the [Health Level Seven (HL7) standard](http://www.hl7.org/implement/standards/index.cfm?ref=nav). HL7 is a set of international standards for the exchange, integration, and retrieval of electronic health information. It is designed to support interoperability between different healthcare systems and to facilitate the exchange of clinical and administrative data.
 
-Other standards that healthcare organizations may consider include the ISO 9001 quality management standard, the ISO 13485 medical devices standard, and the ISO 15189 medical laboratories standard.
+Other standards that healthcare organizations may consider include the [ISO 9001](https://www.iso.org/iso-9001-quality-management.html) quality management standard, the [ISO 13485](https://www.iso.org/iso-13485-medical-devices.html) medical devices standard, and the [ISO 15189](https://www.iso.org/standard/76677.html) medical laboratories standard.
 
 ## Conclusion
+
 Software compliance is a crucial consideration for healthcare organizations. Ensuring compliance with relevant regulations is essential for protecting the confidentiality and security of personal health information and for avoiding fines and reputational damage. Healthcare organizations must stay up-to-date with the latest compliance requirements and implement robust processes to ensure that their software and systems meet these requirements.
+
+## Resources
+- [Health Insurance Portability and Accountability Act (HIPAA)](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act)
+- [Personal health information (PHI)](https://en.wikipedia.org/wiki/Protected_health_information)
+- [Federal Drug Administration (FDA)](https://en.wikipedia.org/wiki/Food_and_Drug_Administration)
+- [Medicare and Medicaid Services](https://en.wikipedia.org/wiki/Centers_for_Medicare_%26_Medicaid_Services)
+- [Electronic health records (EHRs)](https://www.healthit.gov/faq/what-electronic-health-record-ehr)
+- [International Organization for Standardization (ISO) 27001](https://www.iso.org/isoiec-27001-information-security.html)
+- [International Organization for Standardization (ISO) 9001](https://www.iso.org/iso-9001-quality-management.html)
+- [International Organization for Standardization (ISO) 13485](https://www.iso.org/iso-13485-medical-devices.html)
+- [International Organization for Standardization (ISO) 15189](https://www.iso.org/standard/76677.html)
+- [Health Level Seven (HL7) standard](http://www.hl7.org/implement/standards/index.cfm?ref=nav)
+
+**Nex reading:**
+ - [Software Compliance in the Financial Services Industry](learnings/conformity/software-compliance-for-financial-services.md)
+ - [The Consequences of Non-Compliance: Risks and Penalties](learnings/conformity/consequences-of-non-compliance.md)

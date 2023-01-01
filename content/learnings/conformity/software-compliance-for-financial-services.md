@@ -29,7 +29,7 @@ series: ["Conformity"]
 tags: ["Compliance", "Licenses"]
 ---
 
-Table of content:
+**Table of content**:
 1. [Introduction to Software Compliance: What It Is and Why It's Important](learnings/conformity/introduction-to-software-compliance.md)
 2. [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)
 3. [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)
@@ -75,9 +75,25 @@ To ensure compliance with these and other regulations, financial services firms 
 - Monitor compliance: It is important for financial services firms to continuously monitor their software systems to ensure that they remain compliant with the relevant regulations. This may include conducting regular compliance assessments, implementing software updates, and monitoring for changes in the regulatory landscape.
 
 ## ISO Standards and PCI DSS: Key Considerations for Software Compliance in the Financial Services Industry
-There are several ISO standards that are relevant to software compliance in the financial services industry, including ISO/IEC 27001, ISO/IEC 27018, and ISO/IEC 20000. Financial services firms can use these standards to help ensure compliance with relevant regulations.
 
-In addition, the Payment Card Industry Data Security Standard (PCI DSS) is a set of security standards that applies to any organization, including financial services firms, that accept credit card payments. PCI DSS includes requirements for software systems that handle credit card information, including requirements for secure coding practices, secure transmission of cardholder data, and encryption of stored cardholder data. Financial services firms must ensure that their software systems are compliant with these requirements to maintain PCI DSS compliance.
+- [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html) is an international standard that outlines a framework for establishing, implementing, maintaining, and continually improving an organization's information security management system (ISMS). It helps organizations to protect sensitive information, such as financial data, from unauthorized access, use, disclosure, disruption, modification, or destruction.
+
+- [ISO/IEC 27018](https://www.iso.org/standard/76559.html) is a code of practice that provides guidance on how to protect personal data in the cloud. It specifies how organizations should implement and maintain appropriate technical and organizational measures to secure personal data in the cloud, taking into account the unique characteristics of cloud computing.
+
+- [ISO/IEC 20000](https://www.iso.org/standard/70636.html) is a standard for IT service management. It specifies requirements for the service provider to plan, establish, implement, operate, monitor, review, maintain, and improve an IT service management system (SMS). The standard is based on the ITIL (Information Technology Infrastructure Library) framework, which is a set of best practices for IT service management.
+
+In addition, the [Payment Card Industry Data Security Standard (PCI DSS)](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard) is a set of security standards that applies to any organization, including financial services firms, that accept credit card payments. PCI DSS includes requirements for software systems that handle credit card information, including requirements for secure coding practices, secure transmission of cardholder data, and encryption of stored cardholder data. Financial services firms must ensure that their software systems are compliant with these requirements to maintain PCI DSS compliance.
 
 ## Conclusion
 Software compliance is a critical consideration for financial services firms. By following best practices and adhering to the relevant regulations, firms can protect against legal and regulatory issues and ensure that their software systems are secure and compliant.
+
+## Resources
+- [International Organization for Standardization (ISO) 27001](https://www.iso.org/isoiec-27001-information-security.html)
+- [ISO/IEC 27018](https://www.iso.org/standard/76559.html)
+- [ISO/IEC 20000](https://www.iso.org/standard/70636.html)
+- [Payment Card Industry Data Security Standard (PCI DSS)](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)
+
+
+**Next reading:**
+- [Software Compliance in the Government Sector](learnings/conformity/software-compliance-for-government-sector.md)
+- [The Consequences of Non-Compliance: Risks and Penalties](learnings/conformity/consequences-of-non-compliance.md)

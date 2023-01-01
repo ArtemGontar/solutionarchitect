@@ -25,7 +25,7 @@ series: ["Conformity"]
 tags: ["Compliance", "Licenses", "Audits"]
 ---
 
-Table of content:
+**Table of content**:
 1. [Introduction to Software Compliance: What It Is and Why It's Important](learnings/conformity/introduction-to-software-compliance.md)
 2. [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)
 3. [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)
@@ -63,3 +63,6 @@ E- xpect to answer questions: The auditor will likely ask you questions about yo
 ## Conclusion
 
 Software compliance audits are an important part of doing business in the technology industry. It is essential for companies to use software in accordance with their license agreements in order to avoid fines, legal action, and damage to their reputation. To prepare for a software compliance audit, it is advisable to conduct a self-audit, review your license agreements, keep accurate records, and designate a single point of contact. By following these steps, you can feel confident and prepared when undergoing a software compliance audit.
+
+**Next reading:**
+- [Managing Software Compliance in a Remote Work Environment](learnings/conformity/software-compliance-in-remote-work.md)

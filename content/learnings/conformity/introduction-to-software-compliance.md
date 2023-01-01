@@ -26,7 +26,7 @@ series: ["Conformity"]
 tags: ["Compliance", "Licenses", "Audits"]
 ---
 
-Table of content:
+****Table of content****:
 1. (->) Introduction to Software Compliance: What It Is and Why It's Important
 2. [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)
 3. [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)
@@ -88,4 +88,8 @@ Enforcing software compliance within an organization requires a combination of t
 4. Responding to non-compliance: When non-compliance is identified, it is important for organizations to take prompt corrective action. This can include purchasing the appropriate licenses, updating software usage policies and procedures, and providing additional training to employees.
 
 ## Conclusion
+
 The importance of software compliance cannot be overstated. By following relevant laws and regulations and adhering to the terms of software licenses, organizations can protect their interests and minimize the risk of legal action and financial penalties. By implementing technical and organizational measures to enforce software compliance, organizations can ensure that they are using software in a compliant manner.
+
+**Next reading**:
+ - [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)

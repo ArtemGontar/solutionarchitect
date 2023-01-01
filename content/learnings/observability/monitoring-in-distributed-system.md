@@ -25,7 +25,7 @@ series: ["Observability"]
 tags: ["Distributed systems", "Observability"]
 ---
 
-Table of content:
+**Table of content**:
 1. [Introduction to distributed systems and observability](/learnings/observability/intro-to-distributed-observability/)
 2. (->) Monitoring and metrics in distributed systems
 3. [Logging and Tracing in distributed systems](/learnings/observability/logging-and-tracing-in-distributed-system/)
