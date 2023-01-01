@@ -1,5 +1,5 @@
 ---
-title: "Ensuring Software Compliance in the Manufacturing Industry"
+title: "Software Compliance in the Manufacturing Industry"
 description: "Discusses the compliance considerations and regulations that apply to the manufacturing industry"
 date: 2022-11-27T10:55:07+02:00
 keywords:
