@@ -29,19 +29,19 @@ tags: ["Compliance"]
 ---
 
 **Table of content**:
-1. [Introduction to Software Compliance: What It Is and Why It's Important](learnings/conformity/introduction-to-software-compliance.md)
-2. [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)
-3. [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)
-4. [Navigating Software Compliance for Small Businesses](learnings/conformity/software-compliance-for-small-business.md)
-5. [Software Compliance in the Healthcare Industry](learnings/conformity/software-compliance-for-healthcare.md)
-6. [Software Compliance in the Financial Services Industry](learnings/conformity/software-compliance-for-financial-services.md)
-7. [Software Compliance in the Government Sector](learnings/conformity/software-compliance-for-government-sector.md)
-8. [Ensuring Software Compliance in the Manufacturing Industry](learnings/conformity/software-compliance-for-manufacturing.md)
+1. [Introduction to Software Compliance: What It Is and Why It's Important](/learnings/conformity/introduction-to-software-compliance/)
+2. [Software Compliance in the Workplace: A Practical Guide for Businesses](/learnings/conformity/software-compliance-practical-guide/)
+3. [The Different Types of Software Licenses: Understanding Your Options](/learnings/conformity/different-types-of-software-licenses/)
+4. [Navigating Software Compliance for Small Businesses](/learnings/conformity/software-compliance-for-small-business/)
+5. [Software Compliance in the Healthcare Industry](/learnings/conformity/software-compliance-for-healthcare/)
+6. [Software Compliance in the Financial Services Industry](/learnings/conformity/software-compliance-for-financial-services/)
+7. [Software Compliance in the Government Sector](/learnings/conformity/software-compliance-for-government-sector/)
+8. [Ensuring Software Compliance in the Manufacturing Industry](/learnings/conformity/software-compliance-for-manufacturing/)
 9. (->) Software Compliance for E-Commerce Businesses
-10. [The Consequences of Non-Compliance: Risks and Penalties](learnings/conformity/consequences-of-non-compliance.md)
-11. [Software Compliance Audits: What to Expect and How to Prepare](learnings/conformity/software-compliance-audits.md)
-12. [Managing Software Compliance in a Remote Work Environment](learnings/conformity/software-compliance-in-remote-work.md)
-13. [Staying Up-to-Date on Software Compliance Regulations and Standards](learnings/conformity/staying-up-to-date-on-software-compliance.md)
+10. [The Consequences of Non-Compliance: Risks and Penalties](/learnings/conformity/consequences-of-non-compliance/)
+11. [Software Compliance Audits: What to Expect and How to Prepare](/learnings/conformity/software-compliance-audits/)
+12. [Managing Software Compliance in a Remote Work Environment](/learnings/conformity/software-compliance-in-remote-work/)
+13. [Staying Up-to-Date on Software Compliance Regulations and Standards](/learnings/conformity/staying-up-to-date-on-software-compliance/)
 
 As an e-commerce business owner, it's important to make sure that you are complying with all relevant regulations and requirements. Not only is it the right thing to do, but it can also help to protect your business and your customers. In this article, we'll cover some of the specific compliance requirements that apply to e-commerce businesses, as well as how to approach these regulations and what ISO or other standards you should consider following.
 
@@ -73,4 +73,4 @@ Compliance is an important consideration for any e-commerce business. By underst
 - [ISO 22000](https://www.iso.org/iso-22000-food-safety-management.html)
 
 **Next reading:**
-- [The Consequences of Non-Compliance: Risks and Penalties](learnings/conformity/consequences-of-non-compliance.md)
+- [The Consequences of Non-Compliance: Risks and Penalties](/learnings/conformity/consequences-of-non-compliance/)

@@ -24,19 +24,19 @@ tags: ["Compliance", "Licenses"]
 ---
 
 **Table of content**:
-1. [Introduction to Software Compliance: What It Is and Why It's Important](learnings/conformity/introduction-to-software-compliance.md)
-2. [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)
-3. [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)
-4. [Navigating Software Compliance for Small Businesses](learnings/conformity/software-compliance-for-small-business.md)
-5. [Software Compliance in the Healthcare Industry](learnings/conformity/software-compliance-for-healthcare.md)
-6. [Software Compliance in the Financial Services Industry](learnings/conformity/software-compliance-for-financial-services.md)
-7. [Software Compliance in the Government Sector](learnings/conformity/software-compliance-for-government-sector.md)
-8. [Ensuring Software Compliance in the Manufacturing Industry](learnings/conformity/software-compliance-for-manufacturing.md)
-9. [Software Compliance for E-Commerce Businesses](learnings/conformity/software-compliance-for-e-commerce.md)
-10. [The Consequences of Non-Compliance: Risks and Penalties](learnings/conformity/consequences-of-non-compliance.md)
-11. [Software Compliance Audits: What to Expect and How to Prepare](learnings/conformity/software-compliance-audits.md)
+1. [Introduction to Software Compliance: What It Is and Why It's Important](/learnings/conformity/introduction-to-software-compliance/)
+2. [Software Compliance in the Workplace: A Practical Guide for Businesses](/learnings/conformity/software-compliance-practical-guide/)
+3. [The Different Types of Software Licenses: Understanding Your Options](/learnings/conformity/different-types-of-software-licenses/)
+4. [Navigating Software Compliance for Small Businesses](/learnings/conformity/software-compliance-for-small-business/)
+5. [Software Compliance in the Healthcare Industry](/learnings/conformity/software-compliance-for-healthcare/)
+6. [Software Compliance in the Financial Services Industry](/learnings/conformity/software-compliance-for-financial-services/)
+7. [Software Compliance in the Government Sector](/learnings/conformity/software-compliance-for-government-sector/)
+8. [Ensuring Software Compliance in the Manufacturing Industry](/learnings/conformity/software-compliance-for-manufacturing/)
+9. [Software Compliance for E-Commerce Businesses](/learnings/conformity/software-compliance-for-e-commerce/)
+10. [The Consequences of Non-Compliance: Risks and Penalties](/learnings/conformity/consequences-of-non-compliance/)
+11. [Software Compliance Audits: What to Expect and How to Prepare](/learnings/conformity/software-compliance-audits/)
 12. (->) Managing Software Compliance in a Remote Work Environment
-13. [Staying Up-to-Date on Software Compliance Regulations and Standards](learnings/conformity/staying-up-to-date-on-software-compliance.md)
+13. [Staying Up-to-Date on Software Compliance Regulations and Standards](/learnings/conformity/staying-up-to-date-on-software-compliance/)
 
 As more and more companies shift to a remote work model, it is important to consider the challenges and considerations that come with managing software compliance in this environment.
 
@@ -59,4 +59,4 @@ To address this challenge, companies can implement software asset management (SA
 Managing software compliance in a remote work environment requires a combination of strategies and tools to ensure that all devices and systems being used by employees are properly licensed and up to date. By implementing the right policies and procedures, and making use of tools such as SAM, companies can effectively manage compliance in a remote setting.
 
 **Next reading:**
-- [Staying Up-to-Date on Software Compliance Regulations and Standards](learnings/conformity/staying-up-to-date-on-software-compliance.md)
+- [Staying Up-to-Date on Software Compliance Regulations and Standards](/learnings/conformity/staying-up-to-date-on-software-compliance/)

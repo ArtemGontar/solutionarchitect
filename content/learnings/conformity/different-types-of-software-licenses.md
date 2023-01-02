@@ -24,19 +24,19 @@ tags: ["Licenses"]
 ---
 
 **Table of content**:
-1. [Introduction to Software Compliance: What It Is and Why It's Important](learnings/conformity/introduction-to-software-compliance.md)
-2. [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)
+1. [Introduction to Software Compliance: What It Is and Why It's Important](/learnings/conformity/introduction-to-software-compliance/)
+2. [Software Compliance in the Workplace: A Practical Guide for Businesses](/learnings/conformity/software-compliance-practical-guide/)
 3. (->) The Different Types of Software Licenses: Understanding Your Options
-4. [Navigating Software Compliance for Small Businesses](learnings/conformity/software-compliance-for-small-business.md)
-5. [Software Compliance in the Healthcare Industry](learnings/conformity/software-compliance-for-healthcare.md)
-6. [Software Compliance in the Financial Services Industry](learnings/conformity/software-compliance-for-financial-services.md)
-7. [Software Compliance in the Government Sector](learnings/conformity/software-compliance-for-government-sector.md)
-8. [Ensuring Software Compliance in the Manufacturing Industry](learnings/conformity/software-compliance-for-manufacturing.md)
-9. [Software Compliance for E-Commerce Businesses](learnings/conformity/software-compliance-for-e-commerce.md)
-10. [The Consequences of Non-Compliance: Risks and Penalties](learnings/conformity/consequences-of-non-compliance.md)
-11. [Software Compliance Audits: What to Expect and How to Prepare](learnings/conformity/software-compliance-audits.md)
-12. [Managing Software Compliance in a Remote Work Environment](learnings/conformity/software-compliance-in-remote-work.md)
-13. [Staying Up-to-Date on Software Compliance Regulations and Standards](learnings/conformity/staying-up-to-date-on-software-compliance.md)
+4. [Navigating Software Compliance for Small Businesses](/learnings/conformity/software-compliance-for-small-business/)
+5. [Software Compliance in the Healthcare Industry](/learnings/conformity/software-compliance-for-healthcare/)
+6. [Software Compliance in the Financial Services Industry](/learnings/conformity/software-compliance-for-financial-services/)
+7. [Software Compliance in the Government Sector](/learnings/conformity/software-compliance-for-government-sector/)
+8. [Ensuring Software Compliance in the Manufacturing Industry](/learnings/conformity/software-compliance-for-manufacturing/)
+9. [Software Compliance for E-Commerce Businesses](/learnings/conformity/software-compliance-for-e-commerce/)
+10. [The Consequences of Non-Compliance: Risks and Penalties](/learnings/conformity/consequences-of-non-compliance/)
+11. [Software Compliance Audits: What to Expect and How to Prepare](/learnings/conformity/software-compliance-audits/)
+12. [Managing Software Compliance in a Remote Work Environment](/learnings/conformity/software-compliance-in-remote-work/)
+13. [Staying Up-to-Date on Software Compliance Regulations and Standards](/learnings/conformity/staying-up-to-date-on-software-compliance/)
 
 Software licenses are agreements that specify the terms and conditions under which software can be used, distributed, and modified. It is important for individuals and organizations to understand the different types of software licenses and how they impact compliance when using software.
 
@@ -73,4 +73,4 @@ It is important to carefully review the terms and conditions of any software lic
  - [Apache License v2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 **Next reading:**
-- [Navigating Software Compliance for Small Businesses](learnings/conformity/software-compliance-for-small-business.md)
+- [Navigating Software Compliance for Small Businesses](/learnings/conformity/software-compliance-for-small-business/)

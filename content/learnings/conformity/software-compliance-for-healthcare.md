@@ -30,19 +30,19 @@ tags: ["Compliance", "Licenses"]
 ---
 
 **Table of content**:
-1. [Introduction to Software Compliance: What It Is and Why It's Important](learnings/conformity/introduction-to-software-compliance.md)
-2. [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)
-3. [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)
-4. [Navigating Software Compliance for Small Businesses](learnings/conformity/software-compliance-for-small-business.md)
+1. [Introduction to Software Compliance: What It Is and Why It's Important](/learnings/conformity/introduction-to-software-compliance/)
+2. [Software Compliance in the Workplace: A Practical Guide for Businesses](/learnings/conformity/software-compliance-practical-guide/)
+3. [The Different Types of Software Licenses: Understanding Your Options](/learnings/conformity/different-types-of-software-licenses/)
+4. [Navigating Software Compliance for Small Businesses](/learnings/conformity/software-compliance-for-small-business/)
 5. (->) Software Compliance in the Healthcare Industry
-6. [Software Compliance in the Financial Services Industry](learnings/conformity/software-compliance-for-financial-services.md)
-7. [Software Compliance in the Government Sector](learnings/conformity/software-compliance-for-government-sector.md)
-8. [Ensuring Software Compliance in the Manufacturing Industry](learnings/conformity/software-compliance-for-manufacturing.md)
-9. [Software Compliance for E-Commerce Businesses](learnings/conformity/software-compliance-for-e-commerce.md)
-10. [The Consequences of Non-Compliance: Risks and Penalties](learnings/conformity/consequences-of-non-compliance.md)
-11. [Software Compliance Audits: What to Expect and How to Prepare](learnings/conformity/software-compliance-audits.md)
-12. [Managing Software Compliance in a Remote Work Environment](learnings/conformity/software-compliance-in-remote-work.md)
-13. [Staying Up-to-Date on Software Compliance Regulations and Standards](learnings/conformity/staying-up-to-date-on-software-compliance.md)
+6. [Software Compliance in the Financial Services Industry](/learnings/conformity/software-compliance-for-financial-services/)
+7. [Software Compliance in the Government Sector](/learnings/conformity/software-compliance-for-government-sector/)
+8. [Ensuring Software Compliance in the Manufacturing Industry](/learnings/conformity/software-compliance-for-manufacturing/)
+9. [Software Compliance for E-Commerce Businesses](/learnings/conformity/software-compliance-for-e-commerce/)
+10. [The Consequences of Non-Compliance: Risks and Penalties](/learnings/conformity/consequences-of-non-compliance/)
+11. [Software Compliance Audits: What to Expect and How to Prepare](/learnings/conformity/software-compliance-audits/)
+12. [Managing Software Compliance in a Remote Work Environment](/learnings/conformity/software-compliance-in-remote-work/)
+13. [Staying Up-to-Date on Software Compliance Regulations and Standards](/learnings/conformity/staying-up-to-date-on-software-compliance/)
 
 The healthcare industry is heavily regulated, and this extends to the software and systems used by healthcare organizations. Ensuring compliance with relevant regulations is crucial for healthcare organizations, as non-compliance can result in significant fines and reputational damage. In this article, we will discuss some of the unique compliance considerations and regulations that apply to the healthcare industry.
 
@@ -92,5 +92,5 @@ Software compliance is a crucial consideration for healthcare organizations. Ens
 - [Health Level Seven (HL7) standard](http://www.hl7.org/implement/standards/index.cfm?ref=nav)
 
 **Nex reading:**
- - [Software Compliance in the Financial Services Industry](learnings/conformity/software-compliance-for-financial-services.md)
- - [The Consequences of Non-Compliance: Risks and Penalties](learnings/conformity/consequences-of-non-compliance.md)
+ - [Software Compliance in the Financial Services Industry](/learnings/conformity/software-compliance-for-financial-services/)
+ - [The Consequences of Non-Compliance: Risks and Penalties](/learnings/conformity/consequences-of-non-compliance/)

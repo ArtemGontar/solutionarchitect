@@ -44,19 +44,19 @@ tags: ["Compliance", "Licenses"]
 ---
 
 **Table of content**:
-1. [Introduction to Software Compliance: What It Is and Why It's Important](learnings/conformity/introduction-to-software-compliance.md)
-2. [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)
-3. [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)
-4. [Navigating Software Compliance for Small Businesses](learnings/conformity/software-compliance-for-small-business.md)
-5. [Software Compliance in the Healthcare Industry](learnings/conformity/software-compliance-for-healthcare.md)
-6. [Software Compliance in the Financial Services Industry](learnings/conformity/software-compliance-for-financial-services.md)
+1. [Introduction to Software Compliance: What It Is and Why It's Important](/learnings/conformity/introduction-to-software-compliance/)
+2. [Software Compliance in the Workplace: A Practical Guide for Businesses](/learnings/conformity/software-compliance-practical-guide/)
+3. [The Different Types of Software Licenses: Understanding Your Options](/learnings/conformity/different-types-of-software-licenses/)
+4. [Navigating Software Compliance for Small Businesses](/learnings/conformity/software-compliance-for-small-business/)
+5. [Software Compliance in the Healthcare Industry](/learnings/conformity/software-compliance-for-healthcare/)
+6. [Software Compliance in the Financial Services Industry](/learnings/conformity/software-compliance-for-financial-services/)
 7. (->) Software Compliance in the Government Sector
-8. [Ensuring Software Compliance in the Manufacturing Industry](learnings/conformity/software-compliance-for-manufacturing.md)
-9. [Software Compliance for E-Commerce Businesses](learnings/conformity/software-compliance-for-e-commerce.md)
-10. [The Consequences of Non-Compliance: Risks and Penalties](learnings/conformity/consequences-of-non-compliance.md)
-11. [Software Compliance Audits: What to Expect and How to Prepare](learnings/conformity/software-compliance-audits.md)
-12. [Managing Software Compliance in a Remote Work Environment](learnings/conformity/software-compliance-in-remote-work.md)
-13. [Staying Up-to-Date on Software Compliance Regulations and Standards](learnings/conformity/staying-up-to-date-on-software-compliance.md)
+8. [Ensuring Software Compliance in the Manufacturing Industry](/learnings/conformity/software-compliance-for-manufacturing/)
+9. [Software Compliance for E-Commerce Businesses](/learnings/conformity/software-compliance-for-e-commerce/)
+10. [The Consequences of Non-Compliance: Risks and Penalties](/learnings/conformity/consequences-of-non-compliance/)
+11. [Software Compliance Audits: What to Expect and How to Prepare](/learnings/conformity/software-compliance-audits/)
+12. [Managing Software Compliance in a Remote Work Environment](/learnings/conformity/software-compliance-in-remote-work/)
+13. [Staying Up-to-Date on Software Compliance Regulations and Standards](/learnings/conformity/staying-up-to-date-on-software-compliance/)
 
 In the government sector, software compliance refers to the adherence to legal and regulatory requirements that apply to the use of software by government agencies and contractors. These requirements vary depending on the jurisdiction and the specific activities being conducted.
 
@@ -100,5 +100,5 @@ Software compliance is a critical consideration for government agencies and cont
 - [ISO/IEC 20000](https://www.iso.org/standard/70636.html)
 
 **Next reading:**
-- [Ensuring Software Compliance in the Manufacturing Industry](learnings/conformity/software-compliance-for-manufacturing.md)
-- [The Consequences of Non-Compliance: Risks and Penalties](learnings/conformity/consequences-of-non-compliance.md)
+- [Ensuring Software Compliance in the Manufacturing Industry](/learnings/conformity/software-compliance-for-manufacturing/)
+- [The Consequences of Non-Compliance: Risks and Penalties](/learnings/conformity/consequences-of-non-compliance/)

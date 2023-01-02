@@ -25,19 +25,19 @@ tags: ["Compliance"]
 ---
 
 **Table of content**:
-1. [Introduction to Software Compliance: What It Is and Why It's Important](learnings/conformity/introduction-to-software-compliance.md)
-2. [Software Compliance in the Workplace: A Practical Guide for Businesses](learnings/conformity/software-compliance-practical-guide.md)
-3. [The Different Types of Software Licenses: Understanding Your Options](learnings/conformity/different-types-of-software-licenses.md)
-4. [Navigating Software Compliance for Small Businesses](learnings/conformity/software-compliance-for-small-business.md)
-5. [Software Compliance in the Healthcare Industry](learnings/conformity/software-compliance-for-healthcare.md)
-6. [Software Compliance in the Financial Services Industry](learnings/conformity/software-compliance-for-financial-services.md)
-7. [Software Compliance in the Government Sector](learnings/conformity/software-compliance-for-government-sector.md)
+1. [Introduction to Software Compliance: What It Is and Why It's Important](/learnings/conformity/introduction-to-software-compliance/)
+2. [Software Compliance in the Workplace: A Practical Guide for Businesses](/learnings/conformity/software-compliance-practical-guide/)
+3. [The Different Types of Software Licenses: Understanding Your Options](/learnings/conformity/different-types-of-software-licenses/)
+4. [Navigating Software Compliance for Small Businesses](/learnings/conformity/software-compliance-for-small-business/)
+5. [Software Compliance in the Healthcare Industry](/learnings/conformity/software-compliance-for-healthcare/)
+6. [Software Compliance in the Financial Services Industry](/learnings/conformity/software-compliance-for-financial-services/)
+7. [Software Compliance in the Government Sector](/learnings/conformity/software-compliance-for-government-sector/)
 8. (->) Ensuring Software Compliance in the Manufacturing Industry
-9. [Software Compliance for E-Commerce Businesses](learnings/conformity/software-compliance-for-e-commerce.md)
-10. [The Consequences of Non-Compliance: Risks and Penalties](learnings/conformity/consequences-of-non-compliance.md)
-11. [Software Compliance Audits: What to Expect and How to Prepare](learnings/conformity/software-compliance-audits.md)
-12. [Managing Software Compliance in a Remote Work Environment](learnings/conformity/software-compliance-in-remote-work.md)
-13. [Staying Up-to-Date on Software Compliance Regulations and Standards](learnings/conformity/staying-up-to-date-on-software-compliance.md)
+9. [Software Compliance for E-Commerce Businesses](/learnings/conformity/software-compliance-for-e-commerce/)
+10. [The Consequences of Non-Compliance: Risks and Penalties](/learnings/conformity/consequences-of-non-compliance/)
+11. [Software Compliance Audits: What to Expect and How to Prepare](/learnings/conformity/software-compliance-audits/)
+12. [Managing Software Compliance in a Remote Work Environment](/learnings/conformity/software-compliance-in-remote-work/)
+13. [Staying Up-to-Date on Software Compliance Regulations and Standards](/learnings/conformity/staying-up-to-date-on-software-compliance/)
 
 Compliance is a crucial aspect of the manufacturing industry, and it's important for companies to understand the regulations and standards that apply to them. One of the key ways to approach compliance is to become familiar with industry-specific standards, such as ISO (International Organization for Standardization) standards.
 
@@ -63,5 +63,5 @@ Ensuring software compliance in the manufacturing industry is a complex and ongo
 - [ISO 45001](https://www.iso.org/standard/63787.html)
 
 **Next reading:**
-- [Software Compliance for E-Commerce Businesses](learnings/conformity/software-compliance-for-e-commerce.md)
-- [The Consequences of Non-Compliance: Risks and Penalties](learnings/conformity/consequences-of-non-compliance.md)
+- [Software Compliance for E-Commerce Businesses](/learnings/conformity/software-compliance-for-e-commerce/)
+- [The Consequences of Non-Compliance: Risks and Penalties](/learnings/conformity/consequences-of-non-compliance/)
