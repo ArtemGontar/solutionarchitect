@@ -14,7 +14,7 @@ keywords:
   - load impact
   - open source performance testing
 draft: false
-authors: ["Artsiom Hontar"]
+authors: ["Andrei Yarashenka"]
 categories: ["Performance"]
 tags: ["k6", "Grafana Labs"]
 ---
@@ -96,3 +96,7 @@ I hope this helps give you an idea of how to use k6 for performance testing. Hap
 ## Summary
 
 In summary, k6 is a powerful and easy-to-use performance testing tool that can help you ensure the speed, scalability, and stability of your web applications. If you're looking for a tool to help with performance testing, be sure to check out k6.
+
+### About Author
+
+[Andrei Yarashenka](https://www.linkedin.com/in/andreika-kanareika/) is a skilled software engineer with experience in a variety of technologies, including ASP.NET, SQL, RavenDB, message brokers, Docker, and Angular, [Azure certified](https://www.credly.com/badges/28869c94-6bc8-49e9-a1bb-531d4c35efaa?source=linked_in_profile). He is proficient in designing microservices architecture and has experience with testing frameworks such as NUnit and XUnit. Andrei is also familiar with agile methodologies such as Scrum and Kanban.
