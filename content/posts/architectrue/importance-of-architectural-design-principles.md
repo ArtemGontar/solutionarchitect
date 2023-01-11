@@ -1,7 +1,7 @@
 ---
-title: "The Importance of Architectural Design Principles: A Look at How They Can Help Your Software Scale and Adapt"
+title: "The Importance of Architectural Design Principles"
 description: "This article discusses the importance of architectural design principles in software development, and how they can help create scalable and adaptable systems."
-date: 2023-01-11T17:13:07+02:00
+date: 2023-01-08T17:13:07+02:00
 keywords:
   - architectural 
   - design principles
@@ -41,3 +41,6 @@ Another important principle for scaling software is the use of microservices arc
 ## Conclusion
 
 Architectural design principles are essential for creating robust, scalable, and adaptable software systems. By following these principles, software architects and developers can create systems that are easy to understand and maintain, and that can adapt to changing requirements and scalability needs. By using the design principle such as microservices, developers can achieve a system that is loosely coupled and cohesive. These architectural design principles provide the foundation for building high-performance, scalable, and adaptable software systems that can meet the demands of today's fast-paced business environment.
+
+## Resources
+- [Software Architecture in Practice (SEI Series in Software Engineering)](https://amzn.to/3IHvCHO)
