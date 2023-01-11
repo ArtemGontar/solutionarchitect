@@ -27,13 +27,13 @@ categories: ["Performance"]
 tags: ["k6", "Grafana Labs"]
 ---
 
-Hey there, microservices enthusiasts! Are you tired of managing all of your microservices individually? Do you wish there was a way to simplify things and make your life easier? Well, have we got the solution for you: the Kubernetes Gateway API!
+Hey there, microservices enthusiasts! Are you tired of managing all of your microservices individually? Do you wish there was a way to simplify things and make your life easier? Well, have we got the solution for you: the [Kubernetes Gateway API](https://gateway-api.sigs.k8s.io/)!
 
 ## Definition of Kubernetes Gateway API
 
-First things first, let's define what the Kubernetes Gateway API is. Simply put, it's an API that acts as a gateway for microservices. It provides a single point of entry for all of your microservices, making it easier to manage and access them.
+First things first, let's define what the [Kubernetes Gateway API](https://gateway-api.sigs.k8s.io/) is. Simply put, it's an API that acts as a gateway for microservices. It provides a single point of entry for all of your microservices, making it easier to manage and access them.
 
-![Gateway Overview](posts/kubernetes/kubernetes-api-gateway/gateway-overview.jpg)
+![Gateway Overview](/posts/kubernetes/kubernetes-api-gateway/gateway-overview.jpg)
 
 ## Importance of Kubernetes Gateway API in managing microservices
 
@@ -55,7 +55,7 @@ Now that you know a little bit about the Kubernetes Gateway API, let's take a lo
 
 So where does the Kubernetes Gateway API fit into all of this? Well, it acts as the entry point for all API requests to your microservices. When a request comes in, the API server handles it and communicates with the other components of Kubernetes to route the request to the appropriate microservice. The Kubernetes Gateway API is a crucial part of the Kubernetes architecture, as it enables you to manage all of your microservices through a single API.
 
-![Gateway Roles](posts/kubernetes/kubernetes-api-gateway/gateway-roles.jpg)
+![Gateway Roles](/posts/kubernetes/kubernetes-api-gateway/gateway-roles.jpg)
 
 ## Example of using the Kubernetes Gateway API to manage microservices
 
@@ -78,6 +78,41 @@ Now that you know how to use the Kubernetes Gateway API to manage your microserv
 - Advanced traffic routing and progressive delivery: The Kubernetes Gateway API also offers advanced traffic routing and progressive delivery capabilities, allowing you to optimize the performance of your microservices.
 
 - Role-oriented approach for cluster admins and developers: The Kubernetes Gateway API provides a role-oriented approach for cluster admins and developers, making it easier for them to work together and manage microservices.
+
+## Using the Kubernetes Gateway API in your cluster
+
+To use the Gateway API in your cluster, you will need to install a Gateway controller and create Gateway and Route resources. The Gateway controller is responsible for implementing the logic for managing the Gateway and Route resources, and it can be implemented by multiple vendors according to a single specification.
+
+Once you have installed the Gateway controller, you can create Gateway and Route resources to specify how traffic should be routed to your services. Here is an example of a Gateway resource that routes traffic from a hostname www.example.com to a service myservice:
+
+```yaml
+apiVersion: networking.x-k8s.io/v1alpha1
+kind: Gateway
+metadata:
+  name: example-gateway
+spec:
+  selector:
+    app: example-gateway-controller
+  servers:
+  - hostname: www.example.com
+    port:
+      name: http
+      protocol: HTTP
+      number: 80
+  routes:
+  - match:
+      prefix: /
+    route:
+      service:
+        name: myservice
+        port:
+          number: 80
+```
+
+This Gateway resource will route all traffic with the prefix / to the service myservice on port 80. You can use the Gateway API to create more complex routing rules, such as traffic splitting or header-based routing, by specifying additional options in the match and route fields.
+
+I hope this helps give you an idea of how to use the Gateway API in your cluster! Let me know if you have any further questions.
+
 
 ## Limitations of the Kubernetes Gateway API
 
@@ -104,3 +139,8 @@ As with any technology, there is always room for improvement. Some potential are
 ## Importance of maintaining vendor neutrality in the Kubernetes project
 
 One final point to consider is the importance of maintaining vendor neutrality in the Kubernetes project. Kubernetes is an open source project, which means that anyone can contribute to its development and use it in their own projects. This is what makes it such a powerful tool for managing microservices. However, it's important that the Kubernetes project remains vendor neutral, meaning that it doesn't favor any particular vendor or company. This ensures that Kubernetes remains a fair and unbiased platform for all users.
+
+## Useful resources
+- [Kubernetes API Gateway docs](https://gateway-api.sigs.k8s.io/)
+- [Kubernetes API Gateway spec](https://gateway-api.sigs.k8s.io/references/spec/)
+- [Kubernetes API Gateway Presentation by Istio maintainer](https://events.istio.io/istiocon-2021/slides/f9t2-KubernetesGatewayAPIs-JohnHoward.pdf)
