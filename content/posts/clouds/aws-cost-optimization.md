@@ -1,5 +1,5 @@
 ---
-title: "Top 10 AWS Cost Optimization Strategies: A Comprehensive Guide"
+title: "Top 10 AWS Cost Optimization Strategies: Best practices"
 description: "AWS is one of the most popular cloud providers today, but its cost can quickly get out of hand if you're not careful."
 date: 2023-01-16T20:13:07+02:00
 keywords:
@@ -21,6 +21,8 @@ authors: ["Artsiom Hontar"]
 categories: ["Clouds"]
 tags: ["cost optimization", "AWS"]
 ---
+
+![AWS cost optimization](/posts/clouds/aws-cost-optimization/banner.jpg)
 
 As someone who has been working with AWS for quite some time now, I can attest to the fact that it's easy to let your costs spiral out of control if you're not careful. I've definitely made my fair share of mistakes when it comes to cost optimization, but I've also learned a lot along the way. In this post, I want to share some of the strategies that have worked best for me in keeping my AWS expenses in check.
 
