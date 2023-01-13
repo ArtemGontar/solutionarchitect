@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to Architecture Documentation: Best Practices and Tools"
 description: "This post provides an introduction to best practices and tools for architecture documentation."
-date: 2023-01-12T15:13:07+02:00
+date: 2023-01-12T11:13:07+02:00
 keywords:
   - architectural 
   - design principles
